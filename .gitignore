@@ -1,0 +1,12 @@
+# connectome data (public, large; see README > Data)
+*.csv
+!results/**/*.csv
+*.feather
+synapse_cubes*.npz
+# full run outputs (deposited on Zenodo instead)
+code/runs/
+runs/
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

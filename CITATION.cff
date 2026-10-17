@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the preprint."
+title: "Does Wiring Protect the Brain? Whole-Brain Connectome Simulation of Anoxic Spreading Depolarization in the Drosophila Brain"
+authors:
+  - family-names: "Şenyurt"
+    given-names: "İlke Barış"
+    orcid: "https://orcid.org/0009-0001-5999-4500"
+version: "1.0"
+date-released: 2026-10-18
+license: MIT
+repository-code: "https://github.com/ilkesenyurt/anoxic-sd-connectome"
+# After posting, add the bioRxiv DOI and the Zenodo DOI of release v1.0, e.g.
+# doi: "10.5281/zenodo.XXXXXXX"
