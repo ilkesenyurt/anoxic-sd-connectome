@@ -1,0 +1,114 @@
+Stage 15 started Cmt 03.10.2026 18:49:18,27 
+stage15 started 2026-10-03 18:49 []
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  trigger: 48 cubes around [528. 246. 146.] um held at K = 40.0 from 2.0 s for 3.0 s
+139255 neurons, 3732460 connections (whole brain)
+139255 neurons, 3732460 connections (whole brain)
+  trigger: 48 cubes around [528. 246. 146.] um held at K = 40.0 from 2.0 s for 3.0 s
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  trigger: 48 cubes around [528. 246. 146.] um held at K = 40.0 from 2.0 s for 3.0 s
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  trigger: 48 cubes around [528. 246. 146.] um held at K = 40.0 from 2.0 s for 3.0 s
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  trigger: 48 cubes around [528. 246. 146.] um held at K = 40.0 from 2.0 s for 3.0 s
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  trigger: 48 cubes around [528. 246. 146.] um held at K = 40.0 from 2.0 s for 3.0 s
+
+=== A. tissue only, one KCl-triggered SD with working pumps (glia on, SD pump cut 0.2) ===
+ tau  delay  reached  speed  sd_width_s  n_probes  K_peak_median
+15.0   0.05    0.999  1.958      29.225        38         37.732
+20.0   0.00    0.999  2.186      37.600        38         39.523
+20.0   0.05    0.999  1.976      37.625        38         39.410
+20.0   0.10    0.999  1.811      37.700        38         39.298
+20.0   0.15    0.999  1.677      37.750        38         39.186
+25.0   0.05    0.999  1.986      46.050        38         40.381
+A1 SD_TAU_S 19.6 s (SD duration target 37.0 s, locust); A2 SD_DELAY_S 0.0 s (speed 2.19 mm/min, target 2.3; speed measured at SD_TAU 20 - row 91 fake test: speed ~independent of SD_TAU)
+7 runs -> runs\20261003_185201_v11_final_cal
+139255 neurons, 3732460 connections (whole brain)
+  18:52  reox_E6_tau3_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  18:52  reox_E6_tau3_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  18:53  reox_E14_tau3_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  18:53  reox_E14_tau3_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  18:53  reox_E28_tau3_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  18:54  reox_E28_tau3_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  18:54  reox_E14_tau10_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  18:55  reox_E14_tau10_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  18:55  reox_E14_tau20_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  18:56  reox_E14_tau20_seed0: healthy passed, death run started
+[ok] reox_E6_tau3_seed0  (223.2 min)
+  22:35  R_E14_seed0: healthy control started
+  22:35  R_E14_seed0: healthy passed, death run started
+[ok] reox_E28_tau3_seed0  (222.4 min)
+  22:36  Wdeg_E14_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  22:36  Wdeg_E14_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+[ok] reox_E14_tau10_seed0  (225.7 min)
+[ok] reox_E14_tau3_seed0  (227.7 min)
+[ok] reox_E14_tau20_seed0  (227.6 min)
+[ok] Wdeg_E14_seed0  (25.3 min)
+[ok] R_E14_seed0  (30.4 min)
+
+=== B/C. DC proxy (mean neuron resting potential) per run ===
+           run  dc_onset_s  dc_half_recovery_s  dc_90pct_recovery_s  dc_plateau_mV  dc_end_mV  blk_half_recovery_blocked_s  blk_K_end  blk_frac_in_SD_end  blk_rate_last5s_hz  el_onset_s  el_K_at_onset
+  reox_E6_tau3       19.95                4.34                26.83           8.54     -49.66                        17.91       3.72                 0.0               15.45       20.55           8.41
+ reox_E14_tau3       24.54                4.70                31.32           8.54     -49.48                        22.26       3.78                 0.0               16.01       25.10           8.58
+ reox_E28_tau3       31.78                5.86                38.52           8.52     -48.96                        29.39       3.95                 0.0               19.08       32.30           8.91
+reox_E14_tau10       24.54                8.46                31.37           8.54     -49.48                        22.41       3.79                 0.0               16.02       25.10           8.58
+reox_E14_tau20       24.54               13.45                31.60           8.54     -49.45                        23.17       3.79                 0.0               16.24       25.10           8.58
+
+B. DC onset target 11.5 s NOT reachable in the tested range {6.0: 19.9, 14.0: 24.5, 28.0: 31.8}: E_BASE 14.0 kept, decision to the user
+C. recovery at that E_BASE (not fitted; fly DC half recovery 11.8-16.1 s):
+   pump restart    3 s: DC half recovery   4.7 s -> FAIL
+   pump restart   10 s: DC half recovery   8.5 s -> FAIL
+   pump restart   20 s: DC half recovery  13.5 s -> PASS  (beyond the literature bound of seconds)
+   pre-registered choice: E_RECOVER_TAU_S 20.0 s
+
+=== D. wiring at E_BASE 14 (rho = Spearman of cube SD arrival times) ===
+real vs rewired rho 0.941; first SD real 22.7 s, rewired 16.6 s; t50 real 25.1, rewired 17.9; healthy rate real 8.75 Hz
+
+stage15 finished 2026-10-03 23:05 (256 min)
+Stage 15 finished Cmt 03.10.2026 23:05:40,78 

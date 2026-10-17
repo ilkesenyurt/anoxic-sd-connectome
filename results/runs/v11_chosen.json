@@ -1,0 +1,43 @@
+{
+ "SD_TAU_S": 19.6,
+ "SD_DELAY_S": 0.0,
+ "onset_reached": false,
+ "E_BASE_USE_S": 14.0,
+ "recovery": {
+  "tau3": {
+   "dc_half_recovery_s": 4.7,
+   "passes": false,
+   "within_25pct": false
+  },
+  "tau10": {
+   "dc_half_recovery_s": 8.5,
+   "passes": false,
+   "within_25pct": false
+  },
+  "tau20": {
+   "dc_half_recovery_s": 13.5,
+   "passes": true,
+   "within_25pct": true
+  }
+ },
+ "E_RECOVER_TAU_S": 20.0,
+ "final": {
+  "D_UM2_S": 770.0,
+  "SD_ON": 11.0,
+  "SD_RATE": 55.0,
+  "SD_PUMP": 0.2,
+  "SD_KMAX": 54.0,
+  "SD_PUMP_RECOVER": true,
+  "K_COUPLING": "goldman",
+  "RESET_MODE": "fixed",
+  "NA_INACT": false,
+  "TONIC_MEAN": 3.36,
+  "GLIA_ON": true,
+  "GLIA_UPTAKE_S": 0.4,
+  "GLIA_RELEASE_S": 0.05,
+  "GLIA_CAP": 10.0,
+  "GLIA_PASSIVE": 0.5,
+  "SD_TAU_S": 19.6,
+  "SD_DELAY_S": 0.0
+ }
+}

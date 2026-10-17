@@ -1,0 +1,75 @@
+stage27 started 2026-10-08 16:30
+-> runs\20261008_163008_v11_stage27
+=== calibration (variants driven to the real healthy rate) ===
+139255 neurons, 3732460 connections (whole brain)
+  keepEIs (seed 1): loop connections 353,630 (6,435,635 synapses, mean 18.20); kept real 353,630 non-loop E-I connections (6,368,705 synapses, mean 18.01; E->I 176,815 vs loop 176,815); unmatched 0; rewired 3,378,830 of 3,732,460; self-connections left 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  keepEIs (seed 1): loop connections 353,630 (6,435,635 synapses, mean 18.20); kept real 353,630 non-loop E-I connections (6,368,705 synapses, mean 18.01; E->I 176,815 vs loop 176,815); unmatched 0; rewired 3,378,830 of 3,732,460; self-connections left 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  keepEIs (seed 1): loop connections 353,630 (6,435,635 synapses, mean 18.20); kept real 353,630 non-loop E-I connections (6,368,705 synapses, mean 18.01; E->I 176,815 vs loop 176,815); unmatched 0; rewired 3,378,830 of 3,732,460; self-connections left 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  keepEIs (seed 1): loop connections 537,672 (10,260,042 synapses, mean 19.08); kept real 537,672 non-loop E-I connections (10,124,891 synapses, mean 18.83; E->I 268,836 vs loop 268,836); unmatched 0; rewired 4,636,676 of 5,174,348; self-connections left 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  keepEIs (seed 1): loop connections 537,672 (10,260,042 synapses, mean 19.08); kept real 537,672 non-loop E-I connections (10,124,891 synapses, mean 18.83; E->I 268,836 vs loop 268,836); unmatched 0; rewired 4,636,676 of 5,174,348; self-connections left 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female keepEIs: drive 2.360 -> 5.56 Hz (blocked 0.000, K max 3.33)
+150013 neurons, 5174348 connections (whole brain)
+  keepEIs (seed 1): loop connections 537,672 (10,260,042 synapses, mean 19.08); kept real 537,672 non-loop E-I connections (10,124,891 synapses, mean 18.83; E->I 268,836 vs loop 268,836); unmatched 0; rewired 4,636,676 of 5,174,348; self-connections left 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female keepEIs: drive 3.360 -> 9.93 Hz (blocked 0.000, K max 3.38)
+  female keepEIs: drive 4.360 -> 15.18 Hz (blocked 0.000, K max 3.44)
+  male keepEIs: drive 2.418 -> 5.34 Hz (blocked 0.000, K max 3.33)
+  male keepEIs: drive 3.418 -> 9.46 Hz (blocked 0.000, K max 3.38)
+  male keepEIs: drive 4.418 -> 14.42 Hz (blocked 0.000, K max 3.45)
+  matched drives: {'female_keepEIs': 3.583, 'male_keepEIs': 4.059}
+
+=== death runs: 2 ===
+139255 neurons, 3732460 connections (whole brain)
+  keepEIs (seed 1): loop connections 353,630 (6,435,635 synapses, mean 18.20); kept real 353,630 non-loop E-I connections (6,368,705 synapses, mean 18.01; E->I 176,815 vs loop 176,815); unmatched 0; rewired 3,378,830 of 3,732,460; self-connections left 0
+  17:15  female_keepEIs1M_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  17:15  female_keepEIs1M_seed0: healthy passed, death run started
+150013 neurons, 5174348 connections (whole brain)
+  keepEIs (seed 1): loop connections 537,672 (10,260,042 synapses, mean 19.08); kept real 537,672 non-loop E-I connections (10,124,891 synapses, mean 18.83; E->I 268,836 vs loop 268,836); unmatched 0; rewired 4,636,676 of 5,174,348; self-connections left 0
+  17:16  male_keepEIs1M_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  17:16  male_keepEIs1M_seed0: healthy passed, death run started
+[ok] female_keepEIs1M_seed0  (19.8 min)
+  female female_keepEIs1M_seed0 (ok, t50 17.71)
+[ok] male_keepEIs1M_seed0  (46.0 min)
+  male male_keepEIs1M_seed0 (ok, t50 18.25)
+
+=== runs ===
+   sex    group                    run  t50_s  rate_pre_hz  rate_at_m40  slope_hz_per_mV
+female keepEIsM female_keepEIs1M_seed0  17.71         8.42        63.56             4.63
+  male keepEIsM   male_keepEIs1M_seed0  18.25         9.84        63.86             4.61
+
+=== verdict (reading rule fixed before the run) ===
+  keepEIs_female: {"t50": 17.71, "recovery": 0.46, "f": -0.12, "reading": "feedback-group structure explains most of the loop advantage"}
+  keepEIs_male: {"t50": 18.25, "recovery": 0.37, "f": -0.19, "reading": "feedback-group structure explains most of the loop advantage"}
+
+stage27 finished 2026-10-08 18:01 (92 min)

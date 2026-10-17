@@ -1,0 +1,14 @@
+{
+ "keepEIs_female": {
+  "t50": 17.71,
+  "recovery": 0.46,
+  "f": -0.12,
+  "reading": "feedback-group structure explains most of the loop advantage"
+ },
+ "keepEIs_male": {
+  "t50": 18.25,
+  "recovery": 0.37,
+  "f": -0.19,
+  "reading": "feedback-group structure explains most of the loop advantage"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "keep_female": {
+  "t50": 20.36,
+  "recovery": 0.97
+ },
+ "break_female": {
+  "t50": 18.11,
+  "recovery": 0.53
+ },
+ "keepEI_female": {
+  "t50": 18.01,
+  "recovery": 0.51
+ },
+ "keep_male": {
+  "t50": 20.77,
+  "recovery": 0.73
+ },
+ "break_male": {
+  "t50": 22.23,
+  "recovery": 0.93
+ },
+ "keepEI_male": {
+  "t50": 18.69,
+  "recovery": 0.43
+ },
+ "break_frozen_male": {
+  "t50": [
+   14.37,
+   14.26
+  ],
+  "rewired16": 14.04,
+  "all_before_rewired": false
+ },
+ "H15": "PASS",
+ "H16": "FAIL",
+ "H17_female": "partly general, partly loop-specific",
+ "H17_male": "partly general, partly loop-specific"
+}

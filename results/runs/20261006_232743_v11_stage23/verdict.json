@@ -1,0 +1,85 @@
+{
+ "female_D_from_stage22": {
+  "drive": 1.158,
+  "real_t50": 20.21,
+  "rewired_t50": [
+   12.03,
+   12.01
+  ],
+  "gap_s": 8.2,
+  "rate_pre_real": 9.63,
+  "rate_pre_rewired": 12.29,
+  "H10_PASS": true
+ },
+ "male_D": {
+  "parameter": "TONIC_MEAN",
+  "value": -1.4955,
+  "real_t50": 23.91,
+  "rewired_t50": [
+   12.85,
+   12.77
+  ],
+  "gap_s": 11.11,
+  "rate_pre_real": 10.74,
+  "rate_pre_rewired": 0.03,
+  "rate_at_m40": {
+   "male_R_glut0D_seed0": 55.0,
+   "male_Wdeg2_glut0D_seed0": 119.3,
+   "male_Wdeg1_glut0D_seed0": 119.2
+  },
+  "slope_hz_per_mV": {
+   "male_R_glut0D_seed0": 4.72,
+   "male_Wdeg2_glut0D_seed0": 9.09,
+   "male_Wdeg1_glut0D_seed0": 9.01
+  },
+  "PASS": true
+ },
+ "female_W": {
+  "parameter": "W_SYN",
+  "value": 0.1025,
+  "real_t50": 16.39,
+  "rewired_t50": [
+   14.27,
+   14.28
+  ],
+  "gap_s": 2.12,
+  "rate_pre_real": 8.39,
+  "rate_pre_rewired": 9.3,
+  "rate_at_m40": {
+   "female_Wdeg1_glut0W_seed0": 87.1,
+   "female_R_glut0W_seed0": 71.5,
+   "female_Wdeg2_glut0W_seed0": 86.7
+  },
+  "slope_hz_per_mV": {
+   "female_Wdeg1_glut0W_seed0": 6.37,
+   "female_R_glut0W_seed0": 5.46,
+   "female_Wdeg2_glut0W_seed0": 6.31
+  },
+  "PASS": true
+ },
+ "male_W": {
+  "parameter": "W_SYN",
+  "value": 0.0614,
+  "real_t50": 16.43,
+  "rewired_t50": [
+   14.8,
+   14.8
+  ],
+  "gap_s": 1.63,
+  "rate_pre_real": 9.64,
+  "rate_pre_rewired": 9.42,
+  "rate_at_m40": {
+   "male_R_glut0W_seed0": 78.5,
+   "male_Wdeg1_glut0W_seed0": 89.5,
+   "male_Wdeg2_glut0W_seed0": 89.3
+  },
+  "slope_hz_per_mV": {
+   "male_R_glut0W_seed0": 5.79,
+   "male_Wdeg1_glut0W_seed0": 6.35,
+   "male_Wdeg2_glut0W_seed0": 6.36
+  },
+  "PASS": false
+ },
+ "H10b_male_ruleD": "PASS",
+ "H10c_ruleW_both": "FAIL"
+}

@@ -1,0 +1,88 @@
+stage28 started 2026-10-08 19:27
+-> runs\20261008_192710_v11_stage28
+=== calibration (variants driven to the real healthy rate) ===
+139255 neurons, 3732460 connections (whole brain)
+  keepShuf (seed 1): loop connections 353,630 (6,435,635 synapses, mean 18.20; E->I 176,815) shuffled within their sets; still reciprocal after shuffling 4,283 (1.21%); other connections rewired 3,378,830; self-connections left 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  keepShuf (seed 1): loop connections 353,630 (6,435,635 synapses, mean 18.20; E->I 176,815) shuffled within their sets; still reciprocal after shuffling 4,283 (1.21%); other connections rewired 3,378,830; self-connections left 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  keepShuf (seed 1): loop connections 353,630 (6,435,635 synapses, mean 18.20; E->I 176,815) shuffled within their sets; still reciprocal after shuffling 4,283 (1.21%); other connections rewired 3,378,830; self-connections left 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  keepShuf (seed 1): loop connections 537,672 (10,260,042 synapses, mean 19.08; E->I 268,836) shuffled within their sets; still reciprocal after shuffling 4,438 (0.83%); other connections rewired 4,636,676; self-connections left 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  keepShuf (seed 1): loop connections 537,672 (10,260,042 synapses, mean 19.08; E->I 268,836) shuffled within their sets; still reciprocal after shuffling 4,438 (0.83%); other connections rewired 4,636,676; self-connections left 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female keepShuf: drive 2.360 -> 4.38 Hz (blocked 0.000, K max 3.31)
+150013 neurons, 5174348 connections (whole brain)
+  keepShuf (seed 1): loop connections 537,672 (10,260,042 synapses, mean 19.08; E->I 268,836) shuffled within their sets; still reciprocal after shuffling 4,438 (0.83%); other connections rewired 4,636,676; self-connections left 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female keepShuf: drive 3.360 -> 7.74 Hz (blocked 0.000, K max 3.35)
+  female keepShuf: drive 4.360 -> 11.83 Hz (blocked 0.000, K max 3.40)
+  male keepShuf: drive 2.418 -> 4.28 Hz (blocked 0.000, K max 3.33)
+  male keepShuf: drive 3.418 -> 7.46 Hz (blocked 0.000, K max 3.37)
+  male keepShuf: drive 4.418 -> 11.26 Hz (blocked 0.000, K max 3.43)
+  round 2: [('male', 'keepShuf', 4.482), ('male', 'keepShuf', 5.082)]
+150013 neurons, 5174348 connections (whole brain)
+  keepShuf (seed 1): loop connections 537,672 (10,260,042 synapses, mean 19.08; E->I 268,836) shuffled within their sets; still reciprocal after shuffling 4,438 (0.83%); other connections rewired 4,636,676; self-connections left 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  keepShuf (seed 1): loop connections 537,672 (10,260,042 synapses, mean 19.08; E->I 268,836) shuffled within their sets; still reciprocal after shuffling 4,438 (0.83%); other connections rewired 4,636,676; self-connections left 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  male keepShuf: drive 4.482 -> 11.54 Hz (blocked 0.000, K max 3.43)
+  male keepShuf: drive 5.082 -> 14.03 Hz (blocked 0.000, K max 3.47)
+  matched drives: {'female_keepShuf': 4.182, 'male_keepShuf': 4.748}
+
+=== death runs: 2 ===
+139255 neurons, 3732460 connections (whole brain)
+  keepShuf (seed 1): loop connections 353,630 (6,435,635 synapses, mean 18.20; E->I 176,815) shuffled within their sets; still reciprocal after shuffling 4,283 (1.21%); other connections rewired 3,378,830; self-connections left 0
+  20:16  female_keepShuf1M_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  20:16  female_keepShuf1M_seed0: healthy passed, death run started
+150013 neurons, 5174348 connections (whole brain)
+  keepShuf (seed 1): loop connections 537,672 (10,260,042 synapses, mean 19.08; E->I 268,836) shuffled within their sets; still reciprocal after shuffling 4,438 (0.83%); other connections rewired 4,636,676; self-connections left 0
+  20:16  male_keepShuf1M_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  20:17  male_keepShuf1M_seed0: healthy passed, death run started
+[ok] female_keepShuf1M_seed0  (20.4 min)
+  female female_keepShuf1M_seed0 (ok, t50 20.065)
+[ok] male_keepShuf1M_seed0  (43.6 min)
+  male male_keepShuf1M_seed0 (ok, t50 20.875)
+
+=== runs ===
+   sex     group                     run  t50_s  rate_pre_hz  rate_at_m40  slope_hz_per_mV
+female keepShufM female_keepShuf1M_seed0  20.07         8.79        55.46             4.00
+  male keepShufM   male_keepShuf1M_seed0  20.88        10.32        55.83             3.94
+
+=== verdict (reading rule fixed before the run) ===
+  keepShuf_female: {"t50": 20.07, "recovery": 0.91, "g": 0.89, "reading": "which neurons the loop connections link carries the advantage, not the pairing"}
+  keepShuf_male: {"t50": 20.88, "recovery": 0.74, "g": 1.03, "reading": "which neurons the loop connections link carries the advantage, not the pairing"}
+
+stage28 finished 2026-10-08 21:00 (93 min)

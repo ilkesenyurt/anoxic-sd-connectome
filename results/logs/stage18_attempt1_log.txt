@@ -1,0 +1,148 @@
+stage18 started 2026-10-05 00:59
+
+=== 1. calibration (healthy, 20 s) ===
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  male real drive 3.418 -> 12.64 Hz
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  male real drive 3.700 -> 13.73 Hz
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  male real drive 4.100 -> 15.11 Hz
+  male rewired drive 2.400 -> 19.16 Hz
+  male rewired drive 2.700 -> 22.17 Hz
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  male rewired drive 3.000 -> 25.17 Hz
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  female real drive 3.360 -> 11.10 Hz
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  male rewired drive 3.418 -> 29.18 Hz
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  female real drive 3.700 -> 12.43 Hz
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  female real drive 4.100 -> 14.00 Hz
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  female rewired drive 2.400 -> 17.82 Hz
+  female rewired drive 2.700 -> 20.16 Hz
+  female rewired drive 3.000 -> 22.39 Hz
+  female rewired drive 3.360 -> 25.26 Hz
+  target outside the grid for 4 case(s): one extra round
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female rewired drive 2.100 -> 15.25 Hz
+  female real drive 4.400 -> 15.14 Hz
+  male real drive 4.400 -> 16.18 Hz
+  male rewired drive 2.100 -> 16.15 Hz
+   sex     net  drive  rate_hz  blocked_end  K_max
+female    real  3.360   11.102          0.0  3.408
+female    real  3.700   12.432          0.0  3.415
+female    real  4.100   13.996          0.0  3.423
+female    real  4.400   15.140          0.0  3.429
+female rewired  2.100   15.250          0.0  3.436
+female rewired  2.400   17.821          0.0  3.462
+female rewired  2.700   20.157          0.0  3.488
+female rewired  3.000   22.393          0.0  3.512
+female rewired  3.360   25.264          0.0  3.540
+  male    real  3.418   12.644          0.0  3.578
+  male    real  3.700   13.727          0.0  3.583
+  male    real  4.100   15.107          0.0  3.593
+  male    real  4.400   16.176          0.0  3.600
+  male rewired  2.100   16.147          0.0  3.469
+  male rewired  2.400   19.163          0.0  3.511
+  male rewired  2.700   22.173          0.0  3.550
+  male rewired  3.000   25.170          0.0  3.589
+  male rewired  3.418   29.180          0.0  3.644
+female: real 11.10 Hz, rewired 25.26 Hz -> matched rewired drive None, real-up drive None
+male: real 12.64 Hz, rewired 29.18 Hz -> matched rewired drive None, real-up drive None
+male: no matched drive found - matched runs skipped
+female: no matched drive found - matched runs skipped
+
+=== 2. 0 death runs -> runs\20261005_005909_v11_ratematch ===
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\flywire-connectome-analysis\stage18.py", line 222, in <module>
+    main()
+  File "C:\Users\user\Desktop\flywire-connectome-analysis\stage18.py", line 171, in main
+    analyse(out, s, drives)
+  File "C:\Users\user\Desktop\flywire-connectome-analysis\stage18.py", line 178, in analyse
+    s = s[s.status == "ok"].set_index("tag")
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 6318, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataFrame' object has no attribute 'status'

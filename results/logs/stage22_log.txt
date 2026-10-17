@@ -1,0 +1,162 @@
+stage22 started 2026-10-06 19:23
+-> runs\20261006_192302_v11_stage22
+=== A. checks from existing data ===
+
+--- female ---
+139255 neurons, 3732460 connections (whole brain)
+A1 transmitters: {'ACH': 82298, 'UNK': 19658, 'GLUT': 19605, 'GABA': 16017, 'SER': 1021, 'DA': 584, 'OCT': 72}  zero-weight: 21,335
+A3 loops: 353,630 connections, 12.7% of input synapses; synapses/connection loop 18.2 vs other 13.09; median per-neuron loop share {'excitatory': 0.095, 'inhibitory': 0.049}; mean {'excitatory': 0.136, 'inhibitory': 0.115}
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+A2 K release shares (pre = healthy, post = anoxia to end of run): {"pre": {"hist_share_onset": 0.0, "hist_share_brain": 0.0, "zero_share_onset": 0.131, "zero_share_brain": 0.193, "hist_mean_rate_hz": null, "all_mean_rate_hz": 8.75}, "post": {"hist_share_onset": 0.0, "hist_share_brain": 0.0, "zero_share_onset": 0.136, "zero_share_brain": 0.194, "hist_mean_rate_hz": null, "all_mean_rate_hz": 34.15}}
+A5 left/right optic: {"AME_L": {"cubes": 3, "neurons": 13, "synapses": 10628}, "AME_R": {"cubes": 5, "neurons": 11, "synapses": 11669}, "LA_L": {"cubes": 1013, "neurons": 4842, "synapses": 550903}, "LA_R": {"cubes": 1116, "neurons": 4485, "synapses": 793485}, "LO_L": {"cubes": 703, "neurons": 8110, "synapses": 2756406}, "LO_R": {"cubes": 562, "neurons": 6274, "synapses": 2832786}, "LOP_L": {"cubes": 367, "neurons": 3689, "synapses": 1041272}, "LOP_R": {"cubes": 708, "neurons": 6586, "synapses": 1592502}, "ME_L": {"cubes": 3044, "neurons": 30426, "synapses": 7138201}, "ME_R": {"cubes": 2994, "neurons": 29443, "synapses": 7845911}}
+A4 cube counts (presence sets, model neurons): {'keep_1.00': 23388}
+
+--- male ---
+150013 neurons, 5174348 connections (whole brain)
+A1 transmitters: {'ACH': 95581, 'GLUT': 27388, 'GABA': 18032, 'HIST': 5911, 'UNK': 2599, 'DA': 392, 'OCT': 63, 'SER': 47}  zero-weight: 9,012
+A3 loops: 537,672 connections, 14.5% of input synapses; synapses/connection loop 19.08 vs other 13.07; median per-neuron loop share {'excitatory': 0.113, 'inhibitory': 0.058}; mean {'excitatory': 0.159, 'inhibitory': 0.122}
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+A2 K release shares (pre = healthy, post = anoxia to end of run): {"pre": {"hist_share_onset": 0.022, "hist_share_brain": 0.023, "zero_share_onset": 0.04, "zero_share_brain": 0.067, "hist_mean_rate_hz": 6.35, "all_mean_rate_hz": 10.67}, "post": {"hist_share_onset": 0.019, "hist_share_brain": 0.038, "zero_share_onset": 0.028, "zero_share_brain": 0.065, "hist_mean_rate_hz": 21.54, "all_mean_rate_hz": 22.14}}
+A5 left/right optic: {"AME_L": {"cubes": 1, "neurons": 4, "synapses": 5730}, "AME_R": {"cubes": 23, "neurons": 25, "synapses": 21439}, "LA_L": {"cubes": 163, "neurons": 583, "synapses": 81387}, "LA_R": {"cubes": 247, "neurons": 986, "synapses": 123083}, "LO_L": {"cubes": 889, "neurons": 8372, "synapses": 3531521}, "LO_R": {"cubes": 879, "neurons": 8044, "synapses": 4573783}, "LOP_L": {"cubes": 1072, "neurons": 7669, "synapses": 1884760}, "LOP_R": {"cubes": 1094, "neurons": 7776, "synapses": 2507395}, "ME_L": {"cubes": 4033, "neurons": 32453, "synapses": 8428607}, "ME_R": {"cubes": 4295, "neurons": 33354, "synapses": 10350548}}
+A4 cube counts (presence sets, model neurons): {'keep_1.00': 30701, 'keep_0.77': 30801}
+
+=== B. calibration (glutamate neutral, real wiring) ===
+139255 neurons, 3732460 connections (whole brain)
+  glutamate neutral: 19,605 glutamatergic neurons given synaptic weight 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  glutamate neutral: 19,605 glutamatergic neurons given synaptic weight 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  glutamate neutral: 19,605 glutamatergic neurons given synaptic weight 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  glutamate neutral: 27,388 glutamatergic neurons given synaptic weight 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  glutamate neutral: 27,388 glutamatergic neurons given synaptic weight 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female drive 3.360 -> 18.79 Hz (blocked 0.000, K max 3.74)
+150013 neurons, 5174348 connections (whole brain)
+  glutamate neutral: 27,388 glutamatergic neurons given synaptic weight 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female drive 2.360 -> 14.86 Hz (blocked 0.000, K max 3.69)
+  female drive 1.360 -> 11.61 Hz (blocked 0.000, K max 3.64)
+  male drive 3.418 -> 26.84 Hz (blocked 0.000, K max 4.10)
+  male drive 2.418 -> 22.30 Hz (blocked 0.000, K max 4.05)
+  male drive 1.418 -> 18.51 Hz (blocked 0.000, K max 4.00)
+  round 2: [{'sex': 'female', 'drive': 0.903}, {'sex': 'female', 'drive': 1.503}, {'sex': 'male', 'drive': 0.2}, {'sex': 'male', 'drive': 0.2}]
+139255 neurons, 3732460 connections (whole brain)
+  glutamate neutral: 19,605 glutamatergic neurons given synaptic weight 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  glutamate neutral: 19,605 glutamatergic neurons given synaptic weight 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  glutamate neutral: 27,388 glutamatergic neurons given synaptic weight 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  glutamate neutral: 27,388 glutamatergic neurons given synaptic weight 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female drive 0.903 -> 10.45 Hz (blocked 0.000, K max 3.62)
+  female drive 1.503 -> 11.79 Hz (blocked 0.000, K max 3.64)
+  male drive 0.200 -> 15.31 Hz (blocked 0.000, K max 3.94)
+  male drive 0.200 -> 15.31 Hz (blocked 0.000, K max 3.94)
+  round 3: [{'sex': 'male', 'drive': 0.2}, {'sex': 'male', 'drive': 0.2}]
+150013 neurons, 5174348 connections (whole brain)
+  glutamate neutral: 27,388 glutamatergic neurons given synaptic weight 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  glutamate neutral: 27,388 glutamatergic neurons given synaptic weight 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  male drive 0.200 -> 15.31 Hz (blocked 0.000, K max 3.94)
+  male drive 0.200 -> 15.31 Hz (blocked 0.000, K max 3.94)
+  round 4: [{'sex': 'male', 'drive': 0.2}, {'sex': 'male', 'drive': 0.2}]
+150013 neurons, 5174348 connections (whole brain)
+  glutamate neutral: 27,388 glutamatergic neurons given synaptic weight 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  glutamate neutral: 27,388 glutamatergic neurons given synaptic weight 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  male drive 0.200 -> 15.31 Hz (blocked 0.000, K max 3.94)
+  male drive 0.200 -> 15.31 Hz (blocked 0.000, K max 3.94)
+  drives (glutamate neutral): {'female': 1.1581835631662933}
+
+=== B. death runs: 3 ===
+139255 neurons, 3732460 connections (whole brain)
+  glutamate neutral: 19,605 glutamatergic neurons given synaptic weight 0
+  20:56  female_R_glut0_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  20:56  female_R_glut0_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  glutamate neutral: 19,605 glutamatergic neurons given synaptic weight 0
+  20:57  female_Wdeg1_glut0_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (258,736 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  20:57  female_Wdeg1_glut0_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (258,736 are E-I loop connections)
+139255 neurons, 3732460 connections (whole brain)
+  glutamate neutral: 19,605 glutamatergic neurons given synaptic weight 0
+  20:57  female_Wdeg2_glut0_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (258,736 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  20:58  female_Wdeg2_glut0_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (258,736 are E-I loop connections)
+[ok] female_Wdeg1_glut0_seed0  (24.1 min)
+  female female_Wdeg1_glut0_seed0 (ok, t50 12.025)
+[ok] female_Wdeg2_glut0_seed0  (23.9 min)
+  female female_Wdeg2_glut0_seed0 (ok, t50 12.005)
+[ok] female_R_glut0_seed0  (27.5 min)
+  female female_R_glut0_seed0 (ok, t50 20.215)
+
+=== H10 (fixed before the run): gap >= 2 s in both sexes with glutamate neutral ===
+  female: {"drive": 1.158, "real_t50": 20.21, "rewired_t50": [12.03, 12.01], "gap_s": 8.2, "rate_pre_real": 9.63, "rate_pre_rewired": 12.29, "H10_PASS": true}
+
+stage22 finished 2026-10-06 21:23 (121 min)

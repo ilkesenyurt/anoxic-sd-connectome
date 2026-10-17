@@ -1,0 +1,5 @@
+female cube um 10.0 dims [83, 43, 29] synapse sides 180015937
+   keep_1.00 {'>=1 synapse(s)': 26370, '>=5 synapse(s)': 24214, '>=20 synapse(s)': 22946, '>=100 synapse(s)': 21839}
+male cube um 10.0 dims [74, 57, 105] synapse sides 137788853
+   keep_1.00 {'>=1 synapse(s)': 35268, '>=5 synapse(s)': 32366, '>=20 synapse(s)': 29738, '>=100 synapse(s)': 26698}
+   keep_0.77 {'>=1 synapse(s)': 34991, '>=5 synapse(s)': 31910, '>=20 synapse(s)': 29297, '>=100 synapse(s)': 26242}

@@ -1,0 +1,66 @@
+{
+ "female": {
+  "H9_cap5": {
+   "real_t50": 18.16,
+   "rewired_t50": 12.65,
+   "gap_s": 5.51,
+   "PASS": true
+  },
+  "H9_cap20": {
+   "real_t50": 23.19,
+   "rewired_t50": 15.02,
+   "gap_s": 8.17,
+   "PASS": true
+  },
+  "WsignI": {
+   "t50": [
+    19.98,
+    20.07
+   ],
+   "recovery": 1.25,
+   "reading": "carries most of the protection",
+   "gap_to_real_s": 0.48
+  },
+  "WsignE": {
+   "t50": [
+    18.3,
+    17.95
+   ],
+   "recovery": 0.87,
+   "reading": "carries most of the protection",
+   "gap_to_real_s": 2.39
+  }
+ },
+ "male": {
+  "H9_cap5": {
+   "real_t50": 19.91,
+   "rewired_t50": 12.79,
+   "gap_s": 7.12,
+   "PASS": true
+  },
+  "H9_cap20": {
+   "real_t50": 25.86,
+   "rewired_t50": 15.17,
+   "gap_s": 10.69,
+   "PASS": true
+  },
+  "WsignI": {
+   "t50": [
+    21.48,
+    21.49
+   ],
+   "recovery": 1.47,
+   "reading": "carries most of the protection",
+   "gap_to_real_s": 1.22
+  },
+  "WsignE": {
+   "t50": [
+    18.23,
+    18.43
+   ],
+   "recovery": 0.85,
+   "reading": "carries most of the protection",
+   "gap_to_real_s": 4.37
+  }
+ }
+}

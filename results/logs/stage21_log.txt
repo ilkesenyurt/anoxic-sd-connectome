@@ -1,0 +1,179 @@
+stage21 started 2026-10-06 14:51
+16 runs -> runs\20261006_145152_v11_stage21
+139255 neurons, 3732460 connections (whole brain)
+  14:52  female_R_cap5_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  14:52  female_R_cap5_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  14:52  female_W_cap5_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  14:53  female_W_cap5_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+139255 neurons, 3732460 connections (whole brain)
+  14:53  female_R_cap20_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  14:54  female_R_cap20_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  14:54  female_W_cap20_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  14:55  female_W_cap20_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  receiver-specific rewiring (keep sign counts for receivers of sign -1, seed 1): 3,732,460 connections, kept-balance set 1,415,322, free set 2,317,138, self-connections left 0
+  14:55  female_WsignI1_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  14:56  female_WsignI1_seed0: healthy passed, death run started
+[ok] female_W_cap5_seed0  (49.3 min)
+  done female_W_cap5_seed0 (ok, t50 12.655)
+139255 neurons, 3732460 connections (whole brain)
+  receiver-specific rewiring (keep sign counts for receivers of sign -1, seed 2): 3,732,460 connections, kept-balance set 1,415,322, free set 2,317,138, self-connections left 0
+  15:42  female_WsignI2_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  15:42  female_WsignI2_seed0: healthy passed, death run started
+[ok] female_W_cap20_seed0  (51.4 min)
+  done female_W_cap20_seed0 (ok, t50 15.02)
+139255 neurons, 3732460 connections (whole brain)
+  receiver-specific rewiring (keep sign counts for receivers of sign 1, seed 1): 3,732,460 connections, kept-balance set 1,999,979, free set 1,732,481, self-connections left 0
+  15:46  female_WsignE1_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  15:46  female_WsignE1_seed0: healthy passed, death run started
+[ok] female_WsignI1_seed0  (52.9 min)
+  done female_WsignI1_seed0 (ok, t50 19.985)
+[ok] female_R_cap5_seed0  (56.2 min)
+  done female_R_cap5_seed0 (ok, t50 18.16)
+139255 neurons, 3732460 connections (whole brain)
+  receiver-specific rewiring (keep sign counts for receivers of sign 1, seed 2): 3,732,460 connections, kept-balance set 1,999,979, free set 1,732,481, self-connections left 0
+  15:49  female_WsignE2_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  15:50  female_WsignE2_seed0: healthy passed, death run started
+150013 neurons, 5174348 connections (whole brain)
+  15:50  male_R_cap5_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  15:51  male_R_cap5_seed0: healthy passed, death run started
+[ok] female_R_cap20_seed0  (64.0 min)
+  done female_R_cap20_seed0 (ok, t50 23.19)
+150013 neurons, 5174348 connections (whole brain)
+  16:00  male_W_cap5_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  16:01  male_W_cap5_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] female_WsignI2_seed0  (47.5 min)
+  done female_WsignI2_seed0 (ok, t50 20.07)
+150013 neurons, 5174348 connections (whole brain)
+  16:29  male_R_cap20_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  16:29  male_R_cap20_seed0: healthy passed, death run started
+[ok] female_WsignE1_seed0  (45.3 min)
+  done female_WsignE1_seed0 (ok, t50 18.305)
+150013 neurons, 5174348 connections (whole brain)
+  16:32  male_W_cap20_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  16:32  male_W_cap20_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] female_WsignE2_seed0  (45.7 min)
+  done female_WsignE2_seed0 (ok, t50 17.945)
+150013 neurons, 5174348 connections (whole brain)
+  receiver-specific rewiring (keep sign counts for receivers of sign -1, seed 1): 5,174,348 connections, kept-balance set 2,101,496, free set 3,072,852, self-connections left 0
+  16:36  male_WsignI1_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  16:37  male_WsignI1_seed0: healthy passed, death run started
+[ok] male_R_cap5_seed0  (104.9 min)
+  done male_R_cap5_seed0 (ok, t50 19.915)
+150013 neurons, 5174348 connections (whole brain)
+  receiver-specific rewiring (keep sign counts for receivers of sign -1, seed 2): 5,174,348 connections, kept-balance set 2,101,496, free set 3,072,852, self-connections left 0
+  17:37  male_WsignI2_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  17:37  male_WsignI2_seed0: healthy passed, death run started
+[ok] male_W_cap5_seed0  (106.7 min)
+  done male_W_cap5_seed0 (ok, t50 12.795)
+150013 neurons, 5174348 connections (whole brain)
+  receiver-specific rewiring (keep sign counts for receivers of sign 1, seed 1): 5,174,348 connections, kept-balance set 2,879,548, free set 2,294,800, self-connections left 0
+  17:50  male_WsignE1_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  17:50  male_WsignE1_seed0: healthy passed, death run started
+[ok] male_WsignI1_seed0  (104.5 min)
+  done male_WsignI1_seed0 (ok, t50 21.48)
+150013 neurons, 5174348 connections (whole brain)
+  receiver-specific rewiring (keep sign counts for receivers of sign 1, seed 2): 5,174,348 connections, kept-balance set 2,879,548, free set 2,294,800, self-connections left 0
+  18:21  male_WsignE2_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  18:21  male_WsignE2_seed0: healthy passed, death run started
+[ok] male_R_cap20_seed0  (138.4 min)
+  done male_R_cap20_seed0 (ok, t50 25.865)
+[ok] male_W_cap20_seed0  (137.0 min)
+  done male_W_cap20_seed0 (ok, t50 15.17)
+[ok] male_WsignI2_seed0  (85.5 min)
+  done male_WsignI2_seed0 (ok, t50 21.49)
+[ok] male_WsignE1_seed0  (79.0 min)
+  done male_WsignE1_seed0 (ok, t50 18.23)
+[ok] male_WsignE2_seed0  (62.0 min)
+  done male_WsignE2_seed0 (ok, t50 18.435)
+
+=== runs ===
+   sex   group                  run  t50_s  rate_pre_hz  rate_at_m40  slope_hz_per_mV
+female  W_cap5  female_W_cap5_seed0  12.66        19.33        89.19             5.67
+female W_cap20 female_W_cap20_seed0  15.02        19.30        89.50             5.61
+female  WsignI female_WsignI1_seed0  19.98         5.79        53.00             4.15
+female  R_cap5  female_R_cap5_seed0  18.16         8.69        54.07             4.01
+female R_cap20 female_R_cap20_seed0  23.19         8.71        53.88             4.01
+female  WsignI female_WsignI2_seed0  20.07         5.76        52.87             4.14
+female  WsignE female_WsignE1_seed0  18.30        12.01        63.48             4.33
+female  WsignE female_WsignE2_seed0  17.94        14.19        64.24             4.27
+  male  R_cap5    male_R_cap5_seed0  19.92        10.70        54.27             3.86
+  male  W_cap5    male_W_cap5_seed0  12.80        21.67        94.74             5.83
+  male  WsignI   male_WsignI1_seed0  21.48         5.63        51.16             4.02
+  male R_cap20   male_R_cap20_seed0  25.86        10.70        54.05             3.87
+  male W_cap20   male_W_cap20_seed0  15.17        21.59        94.89             5.78
+  male  WsignI   male_WsignI2_seed0  21.49         5.67        51.13             4.00
+  male  WsignE   male_WsignE1_seed0  18.23        21.97        69.41             4.06
+  male  WsignE   male_WsignE2_seed0  18.43        21.12        68.21             4.03
+
+=== verdict (H9 fixed before the run; B descriptive with a pre-set reading rule) ===
+  female: {"H9_cap5": {"real_t50": 18.16, "rewired_t50": 12.65, "gap_s": 5.51, "PASS": true}, "H9_cap20": {"real_t50": 23.19, "rewired_t50": 15.02, "gap_s": 8.17, "PASS": true}, "WsignI": {"t50": [19.98, 20.07], "recovery": 1.25, "reading": "carries most of the protection", "gap_to_real_s": 0.48}, "WsignE": {"t50": [18.3, 17.95], "recovery": 0.87, "reading": "carries most of the protection", "gap_to_real_s": 2.39}}
+  male: {"H9_cap5": {"real_t50": 19.91, "rewired_t50": 12.79, "gap_s": 7.12, "PASS": true}, "H9_cap20": {"real_t50": 25.86, "rewired_t50": 15.17, "gap_s": 10.69, "PASS": true}, "WsignI": {"t50": [21.48, 21.49], "recovery": 1.47, "reading": "carries most of the protection", "gap_to_real_s": 1.22}, "WsignE": {"t50": [18.23, 18.43], "recovery": 0.85, "reading": "carries most of the protection", "gap_to_real_s": 4.37}}
+
+stage21 finished 2026-10-06 19:23 (271 min)

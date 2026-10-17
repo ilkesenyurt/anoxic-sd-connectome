@@ -1,0 +1,14 @@
+{
+ "female": {
+  "drive": 1.158,
+  "real_t50": 20.21,
+  "rewired_t50": [
+   12.03,
+   12.01
+  ],
+  "gap_s": 8.2,
+  "rate_pre_real": 9.63,
+  "rate_pre_rewired": 12.29,
+  "H10_PASS": true
+ }
+}

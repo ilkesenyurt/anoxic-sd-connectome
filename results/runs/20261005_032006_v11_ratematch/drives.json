@@ -1,0 +1,14 @@
+{
+ "female": {
+  "real_rate": 11.101648055725107,
+  "rewired_rate": 25.263968977774592,
+  "matched_rewired_drive": 1.6199794664703144,
+  "real_up_drive": 6.859920654204688
+ },
+ "male": {
+  "real_rate": 12.64422416723884,
+  "rewired_rate": 29.18049102411124,
+  "matched_rewired_drive": 1.7675164054698813,
+  "real_up_drive": 7.571764958513868
+ }
+}

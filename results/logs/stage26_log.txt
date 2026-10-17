@@ -1,0 +1,257 @@
+stage26 started 2026-10-08 04:21
+-> runs\20261008_042131_v11_stage26
+=== calibration (variants driven to the real healthy rate) ===
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'keep_loops': 3,378,830 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'keep_loops': 3,378,830 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'keep_loops': 3,378,830 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'break_loops': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'break_loops': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  female keep: drive 3.360 -> 7.59 Hz (blocked 0.000, K max 3.34)
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'break_loops': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  female keep: drive 4.360 -> 11.52 Hz (blocked 0.000, K max 3.38)
+  female keep: drive 5.360 -> 15.85 Hz (blocked 0.000, K max 3.43)
+139255 neurons, 3732460 connections (whole brain)
+  keepEI (seed 1): loop connections 353,630 (6,435,635 synapses); kept real 530,735 non-loop E-I connections (6,435,664 synapses, pool 1,311,335); rewired 3,201,725 of 3,732,460; self-connections left 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  keepEI (seed 1): loop connections 353,630 (6,435,635 synapses); kept real 530,735 non-loop E-I connections (6,435,664 synapses, pool 1,311,335); rewired 3,201,725 of 3,732,460; self-connections left 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  female break: drive 3.360 -> 46.42 Hz (blocked 0.000, K max 4.05)
+  female break: drive 1.360 -> 35.25 Hz (blocked 0.000, K max 3.93)
+139255 neurons, 3732460 connections (whole brain)
+  keepEI (seed 1): loop connections 353,630 (6,435,635 synapses); kept real 530,735 non-loop E-I connections (6,435,664 synapses, pool 1,311,335); rewired 3,201,725 of 3,732,460; self-connections left 0
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'keep_loops': 4,636,676 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female break: drive -0.640 -> 27.37 Hz (blocked 0.000, K max 3.81)
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'keep_loops': 4,636,676 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female keepEI: drive 2.360 -> 5.50 Hz (blocked 0.000, K max 3.33)
+  female keepEI: drive 3.360 -> 9.75 Hz (blocked 0.000, K max 3.38)
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'keep_loops': 4,636,676 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'break_loops': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female keepEI: drive 4.360 -> 14.82 Hz (blocked 0.000, K max 3.44)
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'break_loops': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  male keep: drive 3.418 -> 7.32 Hz (blocked 0.000, K max 3.37)
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'break_loops': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  male keep: drive 4.418 -> 11.04 Hz (blocked 0.000, K max 3.43)
+150013 neurons, 5174348 connections (whole brain)
+  keepEI (seed 1): loop connections 537,672 (10,260,042 synapses); kept real 843,978 non-loop E-I connections (10,260,049 synapses, pool 2,055,679); rewired 4,330,370 of 5,174,348; self-connections left 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  male keep: drive 5.418 -> 15.15 Hz (blocked 0.000, K max 3.49)
+150013 neurons, 5174348 connections (whole brain)
+  keepEI (seed 1): loop connections 537,672 (10,260,042 synapses); kept real 843,978 non-loop E-I connections (10,260,049 synapses, pool 2,055,679); rewired 4,330,370 of 5,174,348; self-connections left 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  male break: drive 3.418 -> 52.71 Hz (blocked 0.000, K max 4.60)
+150013 neurons, 5174348 connections (whole brain)
+  keepEI (seed 1): loop connections 537,672 (10,260,042 synapses); kept real 843,978 non-loop E-I connections (10,260,049 synapses, pool 2,055,679); rewired 4,330,370 of 5,174,348; self-connections left 0
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  male break: drive 1.418 -> 42.98 Hz (blocked 0.000, K max 4.51)
+  male break: drive -0.582 -> 35.73 Hz (blocked 0.000, K max 4.42)
+  male keepEI: drive 2.418 -> 5.34 Hz (blocked 0.000, K max 3.33)
+  male keepEI: drive 3.418 -> 9.33 Hz (blocked 0.000, K max 3.38)
+  male keepEI: drive 4.418 -> 14.11 Hz (blocked 0.000, K max 3.45)
+  round 2: [('female', 'break', -5.067), ('female', 'break', -4.467), ('male', 'break', -6.0), ('male', 'break', -6.0)]
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'break_loops': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'break_loops': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'break_loops': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'break_loops': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female break: drive -5.067 -> 0.00 Hz (blocked 0.000, K max 3.26)
+  female break: drive -4.467 -> 0.00 Hz (blocked 0.000, K max 3.26)
+  male break: drive -6.000 -> 0.00 Hz (blocked 0.000, K max 3.27)
+  male break: drive -6.000 -> 0.00 Hz (blocked 0.000, K max 3.27)
+  matched drives: {'female_keep': 4.253, 'female_keepEI': 3.626, 'male_keep': 4.807, 'male_keepEI': 4.111, 'female_break': -2.915, 'male_break': -4.083}
+
+=== death runs: 8 ===
+139255 neurons, 3732460 connections (whole brain)
+  06:23  female_keep1M_seed0: healthy control started
+  rewiring 'keep_loops': 3,378,830 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  06:23  female_keep1M_seed0: healthy passed, death run started
+  rewiring 'keep_loops': 3,378,830 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+139255 neurons, 3732460 connections (whole brain)
+  keepEI (seed 1): loop connections 353,630 (6,435,635 synapses); kept real 530,735 non-loop E-I connections (6,435,664 synapses, pool 1,311,335); rewired 3,201,725 of 3,732,460; self-connections left 0
+  06:24  female_keepEI1M_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  06:24  female_keepEI1M_seed0: healthy passed, death run started
+150013 neurons, 5174348 connections (whole brain)
+  06:24  male_keep1M_seed0: healthy control started
+  rewiring 'keep_loops': 4,636,676 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  06:25  male_keep1M_seed0: healthy passed, death run started
+  rewiring 'keep_loops': 4,636,676 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+150013 neurons, 5174348 connections (whole brain)
+  keepEI (seed 1): loop connections 537,672 (10,260,042 synapses); kept real 843,978 non-loop E-I connections (10,260,049 synapses, pool 2,055,679); rewired 4,330,370 of 5,174,348; self-connections left 0
+  06:25  male_keepEI1M_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  06:26  male_keepEI1M_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  06:26  female_break1M_seed0: healthy control started
+  rewiring 'break_loops': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  06:27  female_break1M_seed0: healthy passed, death run started
+  rewiring 'break_loops': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+[ok] female_keep1M_seed0  (46.3 min)
+  female female_keep1M_seed0 (ok, t50 20.355)
+150013 neurons, 5174348 connections (whole brain)
+  07:09  male_break1M_seed0: healthy control started
+  rewiring 'break_loops': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  07:09  male_break1M_seed0: healthy passed, death run started
+  rewiring 'break_loops': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] female_keepEI1M_seed0  (47.1 min)
+  female female_keepEI1M_seed0 (ok, t50 18.01)
+150013 neurons, 5174348 connections (whole brain)
+  07:11  male_break1_seed0: healthy control started
+  rewiring 'break_loops': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  07:12  male_break1_seed0: healthy passed, death run started
+  rewiring 'break_loops': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] female_break1M_seed0  (53.1 min)
+  female female_break1M_seed0 (ok, t50 18.115)
+150013 neurons, 5174348 connections (whole brain)
+  07:21  male_break2_seed0: healthy control started
+  rewiring 'break_loops': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  07:21  male_break2_seed0: healthy passed, death run started
+  rewiring 'break_loops': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] male_keep1M_seed0  (114.0 min)
+  male male_keep1M_seed0 (ok, t50 20.77)
+[ok] male_keepEI1M_seed0  (116.6 min)
+  male male_keepEI1M_seed0 (ok, t50 18.69)
+[ok] male_break1_seed0  (94.3 min)
+  male male_break1_seed0 (ok, t50 14.365)
+[ok] male_break2_seed0  (93.9 min)
+  male male_break2_seed0 (ok, t50 14.255)
+[ok] male_break1M_seed0  (121.1 min)
+  male male_break1M_seed0 (ok, t50 22.235)
+
+=== runs ===
+   sex        group                   run  t50_s  rate_pre_hz  rate_at_m40  slope_hz_per_mV
+female        keepM   female_keep1M_seed0  20.36         8.84        54.27             3.95
+female      keepEIM female_keepEI1M_seed0  18.01         8.47        62.21             4.55
+female       breakM  female_break1M_seed0  18.11         1.15        66.55             4.71
+  male        keepM     male_keep1M_seed0  20.77        10.35        55.82             3.98
+  male      keepEIM   male_keepEI1M_seed0  18.69         9.95        62.37             4.50
+  male break_frozen     male_break1_seed0  14.36        46.35       100.21             4.71
+  male break_frozen     male_break2_seed0  14.26        46.76       101.26             4.73
+  male       breakM    male_break1M_seed0  22.24         0.00        63.63             5.00
+
+=== verdict (H15, H16 and the H17 reading rule fixed before the run) ===
+  keep_female: {"t50": 20.36, "recovery": 0.97}
+  break_female: {"t50": 18.11, "recovery": 0.53}
+  keepEI_female: {"t50": 18.01, "recovery": 0.51}
+  keep_male: {"t50": 20.77, "recovery": 0.73}
+  break_male: {"t50": 22.23, "recovery": 0.93}
+  keepEI_male: {"t50": 18.69, "recovery": 0.43}
+  break_frozen_male: {"t50": [14.37, 14.26], "rewired16": 14.04, "all_before_rewired": false}
+  H15: "PASS"
+  H16: "FAIL"
+  H17_female: "partly general, partly loop-specific"
+  H17_male: "partly general, partly loop-specific"
+
+stage26 finished 2026-10-08 09:10 (289 min)

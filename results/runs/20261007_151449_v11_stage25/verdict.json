@@ -1,0 +1,38 @@
+{
+ "female": {
+  "W_SYN": 0.10253891936861989,
+  "drive": 3.811,
+  "real_t50": 17.0,
+  "rewired_t50": [
+   15.11,
+   15.09
+  ],
+  "gap_control_s": 1.91,
+  "gap_control_over_frozen": 0.28,
+  "rate_pre_rewired": [
+   10.74,
+   10.93
+  ],
+  "gap_glut_neutral_s": 2.12,
+  "ratio": 1.11,
+  "reading": "glutamate's sign does NOT carry the protection"
+ },
+ "male": {
+  "W_SYN": 0.06135352590032487,
+  "drive": 3.835,
+  "real_t50": 17.29,
+  "rewired_t50": [
+   15.75,
+   15.76
+  ],
+  "gap_control_s": 1.54,
+  "gap_control_over_frozen": 0.18,
+  "rate_pre_rewired": [
+   10.69,
+   10.53
+  ],
+  "gap_glut_neutral_s": 1.63,
+  "ratio": 1.06,
+  "reading": "glutamate's sign does NOT carry the protection"
+ }
+}

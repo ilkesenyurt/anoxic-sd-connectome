@@ -1,0 +1,3 @@
+sex,group,run,t50_s,rate_pre_hz,rate_at_m40,slope_hz_per_mV
+female,keepShufM,female_keepShuf1M_seed0,20.065,8.791156511435855,55.4570164278593,3.9972265439725194
+male,keepShufM,male_keepShuf1M_seed0,20.875,10.323435302273802,55.82862859543772,3.9448629257484367

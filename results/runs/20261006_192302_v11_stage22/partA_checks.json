@@ -1,0 +1,202 @@
+{
+ "female": {
+  "A1_neurons_by_transmitter": {
+   "ACH": 82298,
+   "UNK": 19658,
+   "GLUT": 19605,
+   "GABA": 16017,
+   "SER": 1021,
+   "DA": 584,
+   "OCT": 72
+  },
+  "A1_zero_weight_neurons": 21335,
+  "A3_loop_connections": 353630,
+  "A3_loop_share_of_all_input_synapses": 0.127,
+  "A3_syn_per_connection_loop_vs_other": [
+   18.2,
+   13.09
+  ],
+  "A3_median_loop_share_per_neuron": {
+   "excitatory": 0.095,
+   "inhibitory": 0.049
+  },
+  "A3_mean_loop_share_per_neuron": {
+   "excitatory": 0.136,
+   "inhibitory": 0.115
+  },
+  "A2_release_shares": {
+   "pre": {
+    "hist_share_onset": 0.0,
+    "hist_share_brain": 0.0,
+    "zero_share_onset": 0.131,
+    "zero_share_brain": 0.193,
+    "hist_mean_rate_hz": null,
+    "all_mean_rate_hz": 8.75
+   },
+   "post": {
+    "hist_share_onset": 0.0,
+    "hist_share_brain": 0.0,
+    "zero_share_onset": 0.136,
+    "zero_share_brain": 0.194,
+    "hist_mean_rate_hz": null,
+    "all_mean_rate_hz": 34.15
+   }
+  },
+  "A5_left_right": {
+   "AME_L": {
+    "cubes": 3,
+    "neurons": 13,
+    "synapses": 10628
+   },
+   "AME_R": {
+    "cubes": 5,
+    "neurons": 11,
+    "synapses": 11669
+   },
+   "LA_L": {
+    "cubes": 1013,
+    "neurons": 4842,
+    "synapses": 550903
+   },
+   "LA_R": {
+    "cubes": 1116,
+    "neurons": 4485,
+    "synapses": 793485
+   },
+   "LO_L": {
+    "cubes": 703,
+    "neurons": 8110,
+    "synapses": 2756406
+   },
+   "LO_R": {
+    "cubes": 562,
+    "neurons": 6274,
+    "synapses": 2832786
+   },
+   "LOP_L": {
+    "cubes": 367,
+    "neurons": 3689,
+    "synapses": 1041272
+   },
+   "LOP_R": {
+    "cubes": 708,
+    "neurons": 6586,
+    "synapses": 1592502
+   },
+   "ME_L": {
+    "cubes": 3044,
+    "neurons": 30426,
+    "synapses": 7138201
+   },
+   "ME_R": {
+    "cubes": 2994,
+    "neurons": 29443,
+    "synapses": 7845911
+   }
+  },
+  "A4_cube_counts": {
+   "keep_1.00": 23388
+  }
+ },
+ "male": {
+  "A1_neurons_by_transmitter": {
+   "ACH": 95581,
+   "GLUT": 27388,
+   "GABA": 18032,
+   "HIST": 5911,
+   "UNK": 2599,
+   "DA": 392,
+   "OCT": 63,
+   "SER": 47
+  },
+  "A1_zero_weight_neurons": 9012,
+  "A3_loop_connections": 537672,
+  "A3_loop_share_of_all_input_synapses": 0.145,
+  "A3_syn_per_connection_loop_vs_other": [
+   19.08,
+   13.07
+  ],
+  "A3_median_loop_share_per_neuron": {
+   "excitatory": 0.113,
+   "inhibitory": 0.058
+  },
+  "A3_mean_loop_share_per_neuron": {
+   "excitatory": 0.159,
+   "inhibitory": 0.122
+  },
+  "A2_release_shares": {
+   "pre": {
+    "hist_share_onset": 0.022,
+    "hist_share_brain": 0.023,
+    "zero_share_onset": 0.04,
+    "zero_share_brain": 0.067,
+    "hist_mean_rate_hz": 6.35,
+    "all_mean_rate_hz": 10.67
+   },
+   "post": {
+    "hist_share_onset": 0.019,
+    "hist_share_brain": 0.038,
+    "zero_share_onset": 0.028,
+    "zero_share_brain": 0.065,
+    "hist_mean_rate_hz": 21.54,
+    "all_mean_rate_hz": 22.14
+   }
+  },
+  "A5_left_right": {
+   "AME_L": {
+    "cubes": 1,
+    "neurons": 4,
+    "synapses": 5730
+   },
+   "AME_R": {
+    "cubes": 23,
+    "neurons": 25,
+    "synapses": 21439
+   },
+   "LA_L": {
+    "cubes": 163,
+    "neurons": 583,
+    "synapses": 81387
+   },
+   "LA_R": {
+    "cubes": 247,
+    "neurons": 986,
+    "synapses": 123083
+   },
+   "LO_L": {
+    "cubes": 889,
+    "neurons": 8372,
+    "synapses": 3531521
+   },
+   "LO_R": {
+    "cubes": 879,
+    "neurons": 8044,
+    "synapses": 4573783
+   },
+   "LOP_L": {
+    "cubes": 1072,
+    "neurons": 7669,
+    "synapses": 1884760
+   },
+   "LOP_R": {
+    "cubes": 1094,
+    "neurons": 7776,
+    "synapses": 2507395
+   },
+   "ME_L": {
+    "cubes": 4033,
+    "neurons": 32453,
+    "synapses": 8428607
+   },
+   "ME_R": {
+    "cubes": 4295,
+    "neurons": 33354,
+    "synapses": 10350548
+   }
+  },
+  "A4_cube_counts": {
+   "keep_1.00": 30701,
+   "keep_0.77": 30801
+  }
+ }
+}

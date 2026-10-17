@@ -1,0 +1,300 @@
+{
+ "female_R": {
+  "stop_s": 17.0,
+  "cubes_already_in_SD": 0,
+  "K_max": 10.28,
+  "K_mean": 6.59,
+  "rho_K_vs": {
+   "m_rel": 0.487,
+   "rel_pre": 0.364,
+   "rel_anox": 0.574,
+   "load": 0.546,
+   "m_rel_30um": 0.798,
+   "rel_anox_30um": 0.888,
+   "load_30um": 0.88
+  },
+  "hot1pct_regions": {
+   "LOP_L": 110,
+   "LO_L": 72,
+   "ME_L": 48,
+   "IPS_L": 1
+  },
+  "hot1pct_vs_mean": {
+   "m_rel": 2.27,
+   "rel_anox": 2.47,
+   "load": 2.39
+  },
+  "left_right": {
+   "optic": {
+    "L": {
+     "n_cubes": 5130,
+     "K_mean": 8.898,
+     "m_rel_mean": 0.838,
+     "neuron_eq": 4298.0,
+     "rel_anox_mean": 0.4518
+    },
+    "R": {
+     "n_cubes": 5385,
+     "K_mean": 8.098,
+     "m_rel_mean": 0.789,
+     "neuron_eq": 4251.0,
+     "rel_anox_mean": 0.3914
+    }
+   },
+   "whole": {
+    "L": {
+     "n_cubes": 9718,
+     "K_mean": 7.089,
+     "m_rel_mean": 0.597,
+     "neuron_eq": 5805.0,
+     "rel_anox_mean": 0.2865
+    },
+    "R": {
+     "n_cubes": 10143,
+     "K_mean": 6.644,
+     "m_rel_mean": 0.569,
+     "neuron_eq": 5772.0,
+     "rel_anox_mean": 0.2537
+    }
+   }
+  },
+  "optic_neurons_by_main_neuropil": {
+   "AME_L": 13,
+   "AME_R": 11,
+   "LA_L": 4842,
+   "LA_R": 4485,
+   "LO_L": 8110,
+   "LO_R": 6274,
+   "LOP_L": 3689,
+   "LOP_R": 6586,
+   "ME_L": 30426,
+   "ME_R": 29443
+  },
+  "rate_pre_hz": 8.75,
+  "rate_anox_hz": 46.08
+ },
+ "female_W": {
+  "stop_s": 11.5,
+  "cubes_already_in_SD": 0,
+  "K_max": 10.11,
+  "K_mean": 6.5,
+  "rho_K_vs": {
+   "m_rel": 0.521,
+   "rel_pre": 0.476,
+   "rel_anox": 0.532,
+   "load": 0.533,
+   "m_rel_30um": 0.835,
+   "rel_anox_30um": 0.857,
+   "load_30um": 0.865
+  },
+  "hot1pct_regions": {
+   "LOP_L": 98,
+   "LO_L": 72,
+   "ME_L": 60,
+   "IPS_L": 1
+  },
+  "hot1pct_vs_mean": {
+   "m_rel": 2.35,
+   "rel_anox": 2.94,
+   "load": 2.77
+  },
+  "left_right": {
+   "optic": {
+    "L": {
+     "n_cubes": 5130,
+     "K_mean": 8.072,
+     "m_rel_mean": 0.838,
+     "neuron_eq": 4298.0,
+     "rel_anox_mean": 0.5941
+    },
+    "R": {
+     "n_cubes": 5385,
+     "K_mean": 7.733,
+     "m_rel_mean": 0.789,
+     "neuron_eq": 4251.0,
+     "rel_anox_mean": 0.5634
+    }
+   },
+   "whole": {
+    "L": {
+     "n_cubes": 9718,
+     "K_mean": 6.836,
+     "m_rel_mean": 0.597,
+     "neuron_eq": 5805.0,
+     "rel_anox_mean": 0.4284
+    },
+    "R": {
+     "n_cubes": 10143,
+     "K_mean": 6.654,
+     "m_rel_mean": 0.569,
+     "neuron_eq": 5772.0,
+     "rel_anox_mean": 0.4107
+    }
+   }
+  },
+  "optic_neurons_by_main_neuropil": {
+   "AME_L": 13,
+   "AME_R": 11,
+   "LA_L": 4842,
+   "LA_R": 4485,
+   "LO_L": 8110,
+   "LO_R": 6274,
+   "LOP_L": 3689,
+   "LOP_R": 6586,
+   "ME_L": 30426,
+   "ME_R": 29443
+  },
+  "rate_pre_hz": 19.36,
+  "rate_anox_hz": 71.42
+ },
+ "male_R": {
+  "stop_s": 14.8,
+  "cubes_already_in_SD": 0,
+  "K_max": 10.36,
+  "K_mean": 5.49,
+  "rho_K_vs": {
+   "m_rel": 0.548,
+   "rel_pre": 0.319,
+   "rel_anox": 0.538,
+   "load": 0.552,
+   "m_rel_30um": 0.847,
+   "rel_anox_30um": 0.826,
+   "load_30um": 0.852
+  },
+  "hot1pct_regions": {
+   "ME(L)": 160,
+   "LOP(L)": 74,
+   "MesoLN(R)": 55,
+   "none": 16,
+   "MesoAN(R)": 2,
+   "PDMN(R)": 1
+  },
+  "hot1pct_vs_mean": {
+   "m_rel": 2.55,
+   "rel_anox": 3.05,
+   "load": 2.83
+  },
+  "left_right": {
+   "optic": {
+    "L": {
+     "n_cubes": 6158,
+     "K_mean": 6.832,
+     "m_rel_mean": 0.8,
+     "neuron_eq": 4926.0,
+     "rel_anox_mean": 0.3088
+    },
+    "R": {
+     "n_cubes": 6538,
+     "K_mean": 6.538,
+     "m_rel_mean": 0.768,
+     "neuron_eq": 5022.0,
+     "rel_anox_mean": 0.2758
+    }
+   },
+   "whole": {
+    "L": {
+     "n_cubes": 12525,
+     "K_mean": 5.785,
+     "m_rel_mean": 0.532,
+     "neuron_eq": 6659.0,
+     "rel_anox_mean": 0.2234
+    },
+    "R": {
+     "n_cubes": 12978,
+     "K_mean": 5.685,
+     "m_rel_mean": 0.53,
+     "neuron_eq": 6883.0,
+     "rel_anox_mean": 0.2139
+    }
+   }
+  },
+  "optic_neurons_by_main_neuropil": {
+   "AME_L": 4,
+   "AME_R": 25,
+   "LA_L": 583,
+   "LA_R": 986,
+   "LO_L": 8372,
+   "LO_R": 8044,
+   "LOP_L": 7669,
+   "LOP_R": 7776,
+   "ME_L": 32453,
+   "ME_R": 33354
+  },
+  "rate_pre_hz": 10.67,
+  "rate_anox_hz": 40.63
+ },
+ "male_W": {
+  "stop_s": 12.1,
+  "cubes_already_in_SD": 0,
+  "K_max": 10.22,
+  "K_mean": 6.43,
+  "rho_K_vs": {
+   "m_rel": 0.548,
+   "rel_pre": 0.514,
+   "rel_anox": 0.559,
+   "load": 0.564,
+   "m_rel_30um": 0.817,
+   "rel_anox_30um": 0.861,
+   "load_30um": 0.865
+  },
+  "hot1pct_regions": {
+   "LOP(R)": 257,
+   "LOP(L)": 49,
+   "LO(R)": 1,
+   "PLP(R)": 1
+  },
+  "hot1pct_vs_mean": {
+   "m_rel": 2.07,
+   "rel_anox": 3.42,
+   "load": 3.04
+  },
+  "left_right": {
+   "optic": {
+    "L": {
+     "n_cubes": 6158,
+     "K_mean": 8.193,
+     "m_rel_mean": 0.8,
+     "neuron_eq": 4926.0,
+     "rel_anox_mean": 0.5946
+    },
+    "R": {
+     "n_cubes": 6538,
+     "K_mean": 8.164,
+     "m_rel_mean": 0.768,
+     "neuron_eq": 5022.0,
+     "rel_anox_mean": 0.5913
+    }
+   },
+   "whole": {
+    "L": {
+     "n_cubes": 12525,
+     "K_mean": 6.753,
+     "m_rel_mean": 0.532,
+     "neuron_eq": 6659.0,
+     "rel_anox_mean": 0.4134
+    },
+    "R": {
+     "n_cubes": 12978,
+     "K_mean": 6.811,
+     "m_rel_mean": 0.53,
+     "neuron_eq": 6883.0,
+     "rel_anox_mean": 0.4223
+    }
+   }
+  },
+  "optic_neurons_by_main_neuropil": {
+   "AME_L": 4,
+   "AME_R": 25,
+   "LA_L": 583,
+   "LA_R": 986,
+   "LO_L": 8372,
+   "LO_R": 8044,
+   "LOP_L": 7669,
+   "LOP_R": 7776,
+   "ME_L": 32453,
+   "ME_R": 33354
+  },
+  "rate_pre_hz": 21.7,
+  "rate_anox_hz": 78.12
+ }
+}

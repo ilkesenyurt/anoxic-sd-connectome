@@ -1,0 +1,92 @@
+{
+ "female": {
+  "H4": true,
+  "H5": true,
+  "gap_matched_s": 5.16,
+  "gap_stage16_s": 6.74,
+  "fraction_of_gap_remaining": 0.77,
+  "matched_t50": [
+   15.34,
+   15.24,
+   15.48
+  ],
+  "real_t50_stage16": [
+   20.56,
+   20.49,
+   20.48
+  ],
+  "rewired_t50_stage16": [
+   13.85,
+   13.77,
+   13.96,
+   13.61,
+   13.7
+  ],
+  "real_up_t50": 17.12,
+  "matched_first_SD": [
+   13.94,
+   13.76,
+   13.96
+  ],
+  "rate_pre_real": 9.1,
+  "rate_pre_matched": [
+   6.42,
+   6.0,
+   4.8
+  ],
+  "rate_pre_real_up": 21.98,
+  "rate_pre_rewired_stage16": 19.71,
+  "rate_match_within_15pct": false,
+  "drives": {
+   "real_rate": 11.101648055725107,
+   "rewired_rate": 25.263968977774592,
+   "matched_rewired_drive": 1.6199794664703144,
+   "real_up_drive": 6.859920654204688
+  }
+ },
+ "male": {
+  "H4": true,
+  "H5": true,
+  "gap_matched_s": 7.11,
+  "gap_stage16_s": 8.67,
+  "fraction_of_gap_remaining": 0.82,
+  "matched_t50": [
+   15.59,
+   15.45,
+   15.76
+  ],
+  "real_t50_stage16": [
+   22.74,
+   22.68,
+   22.7
+  ],
+  "rewired_t50_stage16": [
+   13.99,
+   14.09,
+   14.22,
+   13.92,
+   13.96
+  ],
+  "real_up_t50": 18.15,
+  "matched_first_SD": [
+   14.69,
+   14.59,
+   14.91
+  ],
+  "rate_pre_real": 10.82,
+  "rate_pre_matched": [
+   5.47,
+   7.27,
+   4.59
+  ],
+  "rate_pre_real_up": 25.71,
+  "rate_pre_rewired_stage16": 20.31,
+  "rate_match_within_15pct": false,
+  "drives": {
+   "real_rate": 12.64422416723884,
+   "rewired_rate": 29.18049102411124,
+   "matched_rewired_drive": 1.7675164054698813,
+   "real_up_drive": 7.571764958513868
+  }
+ }
+}

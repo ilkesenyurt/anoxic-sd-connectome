@@ -1,0 +1,222 @@
+stage16 started 2026-10-04 17:28
+20 runs -> runs\20261004_172806_v11_main
+139255 neurons, 3732460 connections (whole brain)
+  17:28  female_R_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  17:28  female_R_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  17:29  female_R_seed1: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  17:29  female_R_seed1: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  17:29  female_R_seed2: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  17:30  female_R_seed2: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  17:30  female_Wdeg1_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  17:31  female_Wdeg1_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+139255 neurons, 3732460 connections (whole brain)
+  17:31  female_Wdeg2_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  17:32  female_Wdeg2_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+[ok] female_Wdeg2_seed0  (50.4 min)
+  done female_Wdeg2_seed0 (ok)
+139255 neurons, 3732460 connections (whole brain)
+  18:21  female_Wdeg3_seed0: healthy control started
+[ok] female_Wdeg1_seed0  (51.4 min)
+  done female_Wdeg1_seed0 (ok)
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  18:21  female_Wdeg3_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+139255 neurons, 3732460 connections (whole brain)
+  18:22  female_Wdeg4_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  18:22  female_Wdeg4_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+[ok] female_R_seed0  (59.3 min)
+  done female_R_seed0 (ok)
+139255 neurons, 3732460 connections (whole brain)
+  18:29  female_Wdeg5_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  18:29  female_Wdeg5_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+[ok] female_R_seed2  (61.9 min)
+  done female_R_seed2 (ok)
+[ok] female_R_seed1  (62.7 min)
+  done female_R_seed1 (ok)
+139255 neurons, 3732460 connections (whole brain)
+  18:34  female_EI1_seed0: healthy control started
+  rewiring 'break_recip': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  18:34  female_EI1_seed0: healthy passed, death run started
+  rewiring 'break_recip': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+139255 neurons, 3732460 connections (whole brain)
+  18:34  female_EI2_seed0: healthy control started
+  rewiring 'break_recip': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  18:35  female_EI2_seed0: healthy passed, death run started
+  rewiring 'break_recip': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+[ok] female_Wdeg3_seed0  (39.7 min)
+  done female_Wdeg3_seed0 (ok)
+150013 neurons, 5174348 connections (whole brain)
+  19:01  male_R_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  19:01  male_R_seed0: healthy passed, death run started
+[ok] female_Wdeg4_seed0  (40.1 min)
+  done female_Wdeg4_seed0 (ok)
+150013 neurons, 5174348 connections (whole brain)
+  19:03  male_R_seed1: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  19:03  male_R_seed1: healthy passed, death run started
+[ok] female_Wdeg5_seed0  (38.7 min)
+  done female_Wdeg5_seed0 (ok)
+150013 neurons, 5174348 connections (whole brain)
+  19:09  male_R_seed2: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  19:09  male_R_seed2: healthy passed, death run started
+[ok] female_EI1_seed0  (49.3 min)
+  done female_EI1_seed0 (ok)
+[ok] female_EI2_seed0  (49.0 min)
+  done female_EI2_seed0 (ok)
+150013 neurons, 5174348 connections (whole brain)
+  19:25  male_Wdeg1_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  19:25  male_Wdeg1_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+150013 neurons, 5174348 connections (whole brain)
+  19:26  male_Wdeg2_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  19:27  male_Wdeg2_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] male_R_seed0  (123.8 min)
+  done male_R_seed0 (ok)
+150013 neurons, 5174348 connections (whole brain)
+  21:05  male_Wdeg3_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  21:05  male_Wdeg3_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] male_R_seed2  (122.3 min)
+  done male_R_seed2 (ok)
+150013 neurons, 5174348 connections (whole brain)
+  21:12  male_Wdeg4_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  21:12  male_Wdeg4_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] male_R_seed1  (130.9 min)
+  done male_R_seed1 (ok)
+150013 neurons, 5174348 connections (whole brain)
+  21:15  male_Wdeg5_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  21:15  male_Wdeg5_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] male_Wdeg1_seed0  (125.4 min)
+  done male_Wdeg1_seed0 (ok)
+[ok] male_Wdeg2_seed0  (125.2 min)
+  done male_Wdeg2_seed0 (ok)
+150013 neurons, 5174348 connections (whole brain)
+  21:33  male_EI1_seed0: healthy control started
+  rewiring 'break_recip': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  21:33  male_EI1_seed0: healthy passed, death run started
+  rewiring 'break_recip': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+150013 neurons, 5174348 connections (whole brain)
+  21:34  male_EI2_seed0: healthy control started
+  rewiring 'break_recip': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  21:35  male_EI2_seed0: healthy passed, death run started
+  rewiring 'break_recip': 537,672 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] male_Wdeg3_seed0  (112.5 min)
+  done male_Wdeg3_seed0 (ok)
+[ok] male_Wdeg4_seed0  (105.8 min)
+  done male_Wdeg4_seed0 (ok)
+[ok] male_EI2_seed0  (91.2 min)
+  done male_EI2_seed0 (ok)
+[ok] male_Wdeg5_seed0  (111.5 min)
+  done male_Wdeg5_seed0 (ok)
+[ok] male_EI1_seed0  (94.8 min)
+  done male_EI1_seed0 (ok)
+
+=== per run ===
+   sex   group                run  t50_s  first_SD_s  rate_pre_hz
+female    real     female_R_seed0  20.56       18.05         8.75
+female    real     female_R_seed1  20.49       17.98         9.64
+female    real     female_R_seed2  20.48       17.97         8.92
+female rewired female_Wdeg1_seed0  13.84       12.55        19.36
+female rewired female_Wdeg2_seed0  13.76       12.38        20.45
+female rewired female_Wdeg3_seed0  13.96       12.55        18.37
+female rewired female_Wdeg4_seed0  13.60       12.36        19.71
+female rewired female_Wdeg5_seed0  13.70       12.44        20.64
+female      EI   female_EI1_seed0  20.52       18.28        11.85
+female      EI   female_EI2_seed0  20.58       18.42        11.98
+  male    real       male_R_seed0  22.74       15.81        10.67
+  male    real       male_R_seed1  22.68       15.69        10.87
+  male    real       male_R_seed2  22.70       15.72        10.92
+  male rewired   male_Wdeg1_seed0  13.99       13.11        21.70
+  male rewired   male_Wdeg2_seed0  14.09       13.17        18.72
+  male rewired   male_Wdeg3_seed0  14.22       13.35        17.63
+  male rewired   male_Wdeg4_seed0  13.92       13.01        22.60
+  male rewired   male_Wdeg5_seed0  13.96       13.04        20.89
+  male      EI     male_EI1_seed0  23.77       15.90        20.09
+  male      EI     male_EI2_seed0  23.90       15.84        20.22
+
+=== hypotheses (fixed before the run) ===
+
+female:
+  H1: True
+  H2: True
+  H3: True
+  t50_gap_s: 6.74
+  p_one_sided: 0.017857142857142856
+  real_t50: 20.5 +- 0.0
+  rewired_t50: 13.8 +- 0.1
+  EI_t50: 20.5
+  first_SD_real: 18.0
+  first_SD_rewired: 12.5
+  rho_real_vs_real: [1.0, 1.0]
+  rho_real_vs_rewired: [0.941, 0.946, 0.948, 0.937, 0.938]
+  rho_real_vs_EI: [0.99, 0.989]
+
+male:
+  H1: True
+  H2: True
+  H3: True
+  t50_gap_s: 8.67
+  p_one_sided: 0.017857142857142856
+  real_t50: 22.7 +- 0.0
+  rewired_t50: 14.0 +- 0.1
+  EI_t50: 23.8
+  first_SD_real: 15.7
+  first_SD_rewired: 13.1
+  rho_real_vs_real: [1.0, 1.0]
+  rho_real_vs_rewired: [0.904, 0.898, 0.907, 0.895, 0.893]
+  rho_real_vs_EI: [0.997, 0.997]
+
+stage16 finished 2026-10-04 23:07 (340 min)

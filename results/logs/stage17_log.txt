@@ -1,0 +1,77 @@
+stage17 started 2026-10-04 23:09
+
+=== A. geometry export ===
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+geometry female: 23,045 cubes saved
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+geometry male: 30,701 cubes saved
+
+=== B. 5 runs -> runs\20261004_231006_v11_extras ===
+139255 neurons, 3732460 connections (whole brain)
+  23:10  female_reox_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  23:10  female_reox_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  23:11  female_keep_seed0: healthy control started
+  rewiring 'keep_loops': 3,378,830 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  23:11  female_keep_seed0: healthy passed, death run started
+  rewiring 'keep_loops': 3,378,830 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+139255 neurons, 3732460 connections (whole brain)
+  23:11  female_break_seed0: healthy control started
+  rewiring 'break_loops': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  23:12  female_break_seed0: healthy passed, death run started
+  rewiring 'break_loops': 353,630 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+139255 neurons, 3732460 connections (whole brain)
+  lamina removed: 9,327 neurons dropped
+  23:12  female_noLA_R_seed0: healthy control started
+  193 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,466 cubes face a gap inside the brain (10.9%)
+  surface: 4,138 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 22,718 cubes of 10 um, typical density 11.27 neuron-equivalents per cube, 21.7 cubes per neuron, coupling = real
+  23:13  female_noLA_R_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  lamina removed: 9,327 neurons dropped
+  23:13  female_noLA_W_seed0: healthy control started
+  rewiring 'degree': 3,686,090 of 3,686,090 connections rewired (352,936 are E-I loop connections)
+  193 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,466 cubes face a gap inside the brain (10.9%)
+  surface: 4,138 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 22,718 cubes of 10 um, typical density 11.27 neuron-equivalents per cube, 21.7 cubes per neuron, coupling = real
+  23:14  female_noLA_W_seed0: healthy passed, death run started
+  rewiring 'degree': 3,686,090 of 3,686,090 connections rewired (352,936 are E-I loop connections)
+[ok] female_break_seed0  (42.8 min)
+  done female_break_seed0 (ok)
+[ok] female_keep_seed0  (46.0 min)
+  done female_keep_seed0 (ok)
+[ok] female_noLA_W_seed0  (48.2 min)
+  done female_noLA_W_seed0 (ok)
+[ok] female_noLA_R_seed0  (50.9 min)
+  done female_noLA_R_seed0 (ok)
+[ok] female_reox_seed0  (105.1 min)
+  done female_reox_seed0 (ok)
+                tag status  rate_pre_mean_hz  t50_s
+ female_break_seed0     ok             39.86  12.70
+  female_keep_seed0     ok              5.82  21.35
+female_noLA_W_seed0     ok             22.78  14.24
+female_noLA_R_seed0     ok              8.49  22.46
+  female_reox_seed0     ok              8.75  20.56
+
+stage17 finished 2026-10-05 00:55 (106 min)

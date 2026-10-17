@@ -1,0 +1,192 @@
+stage18 started 2026-10-05 03:20
+
+=== 1. calibration (healthy, 20 s) ===
+  reusing 18 calibration points from runs\20261005_005909_v11_ratematch\calibration.csv
+  round 2: target outside the measured range for some cases -> drives female rewired 1.416, female rewired 1.816, female real 6.555, female real 7.555, male rewired 1.552, male rewired 1.952, male real 7.549, male real 8.549
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female rewired drive 1.416 -> 9.35 Hz
+150013 neurons, 5174348 connections (whole brain)
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female rewired drive 1.816 -> 12.79 Hz
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female real drive 6.555 -> 23.93 Hz
+150013 neurons, 5174348 connections (whole brain)
+  female real drive 7.555 -> 28.30 Hz
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  male rewired drive 1.552 -> 10.41 Hz
+  male rewired drive 1.952 -> 14.56 Hz
+  male real drive 7.549 -> 29.08 Hz
+  male real drive 8.549 -> 33.28 Hz
+   sex     net  drive  rate_hz  blocked_end  K_max
+female    real  3.360   11.102          0.0  3.408
+female    real  3.700   12.432          0.0  3.415
+female    real  4.100   13.996          0.0  3.423
+female    real  4.400   15.140          0.0  3.429
+female    real  6.555   23.930          0.0  3.571
+female    real  7.555   28.304          0.0  3.643
+female rewired  1.416    9.346          0.0  3.370
+female rewired  1.816   12.789          0.0  3.407
+female rewired  2.100   15.250          0.0  3.436
+female rewired  2.400   17.821          0.0  3.462
+female rewired  2.700   20.157          0.0  3.488
+female rewired  3.000   22.393          0.0  3.512
+female rewired  3.360   25.264          0.0  3.540
+  male    real  3.418   12.644          0.0  3.578
+  male    real  3.700   13.727          0.0  3.583
+  male    real  4.100   15.107          0.0  3.593
+  male    real  4.400   16.176          0.0  3.600
+  male    real  7.549   29.085          0.0  3.681
+  male    real  8.549   33.282          0.0  3.705
+  male rewired  1.552   10.407          0.0  3.390
+  male rewired  1.952   14.559          0.0  3.445
+  male rewired  2.100   16.147          0.0  3.469
+  male rewired  2.400   19.163          0.0  3.511
+  male rewired  2.700   22.173          0.0  3.550
+  male rewired  3.000   25.170          0.0  3.589
+  male rewired  3.418   29.180          0.0  3.644
+female: real 11.10 Hz, rewired 25.26 Hz -> matched rewired drive 1.6199794664703144, real-up drive 6.859920654204688
+male: real 12.64 Hz, rewired 29.18 Hz -> matched rewired drive 1.7675164054698813, real-up drive 7.571764958513868
+
+=== 2. 8 death runs -> runs\20261005_032006_v11_ratematch ===
+150013 neurons, 5174348 connections (whole brain)
+  04:13  male_WdegM1_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  04:13  male_WdegM1_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+150013 neurons, 5174348 connections (whole brain)
+  04:14  male_WdegM2_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  04:14  male_WdegM2_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+150013 neurons, 5174348 connections (whole brain)
+  04:14  male_WdegM3_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  04:15  male_WdegM3_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+150013 neurons, 5174348 connections (whole brain)
+  04:15  male_Rup_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  04:16  male_Rup_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  04:16  female_WdegM1_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  04:17  female_WdegM1_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+[ok] female_WdegM1_seed0  (46.0 min)
+   female_WdegM1_seed0 ok
+139255 neurons, 3732460 connections (whole brain)
+  05:02  female_WdegM2_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  05:02  female_WdegM2_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+[ok] female_WdegM2_seed0  (29.2 min)
+   female_WdegM2_seed0 ok
+139255 neurons, 3732460 connections (whole brain)
+  05:32  female_WdegM3_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  05:32  female_WdegM3_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+[ok] female_WdegM3_seed0  (28.1 min)
+   female_WdegM3_seed0 ok
+139255 neurons, 3732460 connections (whole brain)
+  06:02  female_Rup_seed0: healthy control started
+  06:02  female_Rup_seed0: healthy passed, death run started
+[ok] male_Rup_seed0  (107.8 min)
+   male_Rup_seed0 ok
+[ok] male_WdegM2_seed0  (127.6 min)
+   male_WdegM2_seed0 ok
+[ok] male_WdegM1_seed0  (129.0 min)
+   male_WdegM1_seed0 ok
+[ok] female_Rup_seed0  (24.7 min)
+   female_Rup_seed0 ok
+[ok] male_WdegM3_seed0  (132.5 min)
+   male_WdegM3_seed0 ok
+
+=== hypotheses (fixed before the run) ===
+
+female:
+  H4: True
+  H5: True
+  gap_matched_s: 5.16
+  gap_stage16_s: 6.74
+  fraction_of_gap_remaining: 0.77
+  matched_t50: [15.34, 15.24, 15.48]
+  real_t50_stage16: [20.56, 20.49, 20.48]
+  rewired_t50_stage16: [13.85, 13.77, 13.96, 13.61, 13.7]
+  real_up_t50: 17.12
+  matched_first_SD: [13.94, 13.76, 13.96]
+  rate_pre_real: 9.1
+  rate_pre_matched: [6.42, 6.0, 4.8]
+  rate_pre_real_up: 21.98
+  rate_pre_rewired_stage16: 19.71
+  rate_match_within_15pct: False
+  drives: {'real_rate': 11.101648055725107, 'rewired_rate': 25.263968977774592, 'matched_rewired_drive': 1.6199794664703144, 'real_up_drive': 6.859920654204688}
+
+male:
+  H4: True
+  H5: True
+  gap_matched_s: 7.11
+  gap_stage16_s: 8.67
+  fraction_of_gap_remaining: 0.82
+  matched_t50: [15.59, 15.45, 15.76]
+  real_t50_stage16: [22.74, 22.68, 22.7]
+  rewired_t50_stage16: [13.99, 14.09, 14.22, 13.92, 13.96]
+  real_up_t50: 18.15
+  matched_first_SD: [14.69, 14.59, 14.91]
+  rate_pre_real: 10.82
+  rate_pre_matched: [5.47, 7.27, 4.59]
+  rate_pre_real_up: 25.71
+  rate_pre_rewired_stage16: 20.31
+  rate_match_within_15pct: False
+  drives: {'real_rate': 12.64422416723884, 'rewired_rate': 29.18049102411124, 'matched_rewired_drive': 1.7675164054698813, 'real_up_drive': 7.571764958513868}
+
+stage18 finished 2026-10-05 06:27 (187 min)

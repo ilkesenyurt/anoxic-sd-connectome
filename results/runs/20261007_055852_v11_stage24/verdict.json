@@ -1,0 +1,39 @@
+{
+ "H12_female": {
+  "WsignI_matched": 19.02,
+  "WsignE_matched": 19.14,
+  "difference_s": -0.12,
+  "PASS": false
+ },
+ "H13_female": {
+  "keep_t50": [
+   21.14
+  ],
+  "real16": 20.51,
+  "PASS": true
+ },
+ "H12_male": {
+  "WsignI_matched": 19.91,
+  "WsignE_matched": 21.78,
+  "difference_s": -1.87,
+  "PASS": false
+ },
+ "H13_male": {
+  "keep_t50": [
+   22.42,
+   22.41
+  ],
+  "real16": 22.71,
+  "PASS": true
+ },
+ "H14_female": {
+  "real": 20.96,
+  "rewired": [
+   13.9,
+   13.8
+  ],
+  "gap_s": 7.11,
+  "PASS": true
+ },
+ "H12": "FAIL"
+}

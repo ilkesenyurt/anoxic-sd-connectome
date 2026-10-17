@@ -1,0 +1,115 @@
+stage25 started 2026-10-07 01:17
+waiting for stage24_log.txt to report 'finished' ...
+-> runs\20261007_151449_v11_stage25
+W_SYN from stage23 rule W: {'female': 0.10253891936861989, 'male': 0.06135352590032487}
+=== calibration (glutamate INHIBITORY, reduced W_SYN, drive re-tuned) ===
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+139255 neurons, 3732460 connections (whole brain)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female W_SYN 0.1025: drive 3.360 -> 8.79 Hz (blocked 0.000, K max 3.35)
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  female W_SYN 0.1025: drive 4.860 -> 16.47 Hz (blocked 0.000, K max 3.43)
+  female W_SYN 0.1025: drive 6.360 -> 25.20 Hz (blocked 0.000, K max 3.52)
+  male W_SYN 0.0614: drive 3.418 -> 10.41 Hz (blocked 0.000, K max 3.38)
+  male W_SYN 0.0614: drive 4.918 -> 18.43 Hz (blocked 0.000, K max 3.46)
+  male W_SYN 0.0614: drive 6.418 -> 27.62 Hz (blocked 0.000, K max 3.56)
+  drives (glutamate inhibitory, reduced W_SYN): {'female': 3.811179661872319, 'male': 3.8349873902710696}
+
+=== death runs: 6 ===
+139255 neurons, 3732460 connections (whole brain)
+  16:06  female_R_ctrlW_seed0: healthy control started
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  16:06  female_R_ctrlW_seed0: healthy passed, death run started
+139255 neurons, 3732460 connections (whole brain)
+  16:07  female_Wdeg1_ctrlW_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  16:07  female_Wdeg1_ctrlW_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+139255 neurons, 3732460 connections (whole brain)
+  16:08  female_Wdeg2_ctrlW_seed0: healthy control started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+  280 neurons had no synapses in the cube file; placed at their marked point
+  internal gaps: 2,295 cubes face a gap inside the brain (10.0%)
+  surface: 4,194 cubes face the outside of the brain (18.2%; gaps < 60 um closed)
+  geometry: 23,045 cubes of 10 um, typical density 11.06 neuron-equivalents per cube, 20.6 cubes per neuron, coupling = real
+  16:08  female_Wdeg2_ctrlW_seed0: healthy passed, death run started
+  rewiring 'degree': 3,732,460 of 3,732,460 connections rewired (353,630 are E-I loop connections)
+150013 neurons, 5174348 connections (whole brain)
+  16:08  male_R_ctrlW_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  16:09  male_R_ctrlW_seed0: healthy passed, death run started
+150013 neurons, 5174348 connections (whole brain)
+  16:09  male_Wdeg1_ctrlW_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  16:10  male_Wdeg1_ctrlW_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] female_Wdeg1_ctrlW_seed0  (49.8 min)
+  female female_Wdeg1_ctrlW_seed0 (ok, t50 15.105)
+150013 neurons, 5174348 connections (whole brain)
+  16:56  male_Wdeg2_ctrlW_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  16:57  male_Wdeg2_ctrlW_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] female_Wdeg2_ctrlW_seed0  (49.6 min)
+  female female_Wdeg2_ctrlW_seed0 (ok, t50 15.09)
+[ok] female_R_ctrlW_seed0  (54.4 min)
+  female female_R_ctrlW_seed0 (ok, t50 17.005)
+[ok] male_Wdeg1_ctrlW_seed0  (97.5 min)
+  male male_Wdeg1_ctrlW_seed0 (ok, t50 15.75)
+[ok] male_R_ctrlW_seed0  (100.3 min)
+  male male_R_ctrlW_seed0 (ok, t50 17.29)
+[ok] male_Wdeg2_ctrlW_seed0  (62.7 min)
+  male male_Wdeg2_ctrlW_seed0 (ok, t50 15.76)
+
+=== runs ===
+   sex   group                      run  t50_s  rate_pre_hz  rate_at_m40  slope_hz_per_mV
+female W_ctrlW female_Wdeg1_ctrlW_seed0  15.10        10.74        79.25             5.67
+female W_ctrlW female_Wdeg2_ctrlW_seed0  15.09        10.93        79.29             5.65
+female R_ctrlW     female_R_ctrlW_seed0  17.00         8.37        66.37             5.00
+  male W_ctrlW   male_Wdeg1_ctrlW_seed0  15.75        10.69        80.04             5.66
+  male R_ctrlW       male_R_ctrlW_seed0  17.29         9.76        69.83             5.15
+  male W_ctrlW   male_Wdeg2_ctrlW_seed0  15.76        10.53        79.86             5.66
+
+=== weight-only control (reading rule fixed before the stage23 death results) ===
+  female: {"W_SYN": 0.10253891936861989, "drive": 3.811, "real_t50": 17.0, "rewired_t50": [15.11, 15.09], "gap_control_s": 1.91, "gap_control_over_frozen": 0.28, "rate_pre_rewired": [10.74, 10.93], "gap_glut_neutral_s": 2.12, "ratio": 1.11, "reading": "glutamate's sign does NOT carry the protection"}
+  male: {"W_SYN": 0.06135352590032487, "drive": 3.835, "real_t50": 17.29, "rewired_t50": [15.75, 15.76], "gap_control_s": 1.54, "gap_control_over_frozen": 0.18, "rate_pre_rewired": [10.69, 10.53], "gap_glut_neutral_s": 1.63, "ratio": 1.06, "reading": "glutamate's sign does NOT carry the protection"}
+
+stage25 finished 2026-10-07 17:59 (165 min)

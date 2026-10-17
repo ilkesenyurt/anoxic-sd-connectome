@@ -1,0 +1,61 @@
+stage_male started 2026-10-04 14:52
+
+=== 0. input check ===
+150013 neurons, 5174348 connections (whole brain)
+male brain: 150,013 neurons, 5,174,348 connected pairs, 70,861,854 synapses
+transmitters: {'ACH': 95581, 'GLUT': 27388, 'GABA': 18032, 'HIST': 5911, 'DA': 392, 'OCT': 63, 'SER': 47}
+female FlyWire for comparison: 139,255 neurons, 3,732,460 pairs
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+geometry: 30,701 cubes (female 23,045)
+139255 neurons, 3732460 connections (whole brain)
+input synapses per neuron: male 472, female 364 -> ratio 0.770; W_SYN_male 0.2118 (scaled)
+
+=== 1. healthy drive (target 12.64 Hz) ===
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+150013 neurons, 5174348 connections (whole brain)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+ tonic  rate_hz  K_cube_max  blocked_end  cubes_in_SD  stable
+   2.5   10.104       3.569          0.0          0.0    True
+   3.0   11.251       3.579          0.0          0.0    True
+   3.5   12.913       3.589          0.0          0.0    True
+   4.0   14.698       3.601          0.0          0.0    True
+P3 healthy brain stable at some drive: YES
+male drive 3.418 (female 3.36)
+150013 neurons, 5174348 connections (whole brain)
+  15:22  male_R_seed0: healthy control started
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  15:22  male_R_seed0: healthy passed, death run started
+150013 neurons, 5174348 connections (whole brain)
+  15:22  male_Wdeg_seed0: healthy control started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+  internal gaps: 4,341 cubes face a gap inside the brain (14.1%)
+  surface: 5,828 cubes face the outside of the brain (19.0%; gaps < 60 um closed)
+  geometry: 30,701 cubes of 10 um, typical density 10.16 neuron-equivalents per cube, 31.8 cubes per neuron, coupling = real
+  15:23  male_Wdeg_seed0: healthy passed, death run started
+  rewiring 'degree': 5,174,348 of 5,174,348 connections rewired (537,672 are E-I loop connections)
+[ok] male_R_seed0  (61.0 min)
+[ok] male_Wdeg_seed0  (63.1 min)
+
+=== 2. male real vs rewired (female, same settings, stage15 D at E_BASE 14: see log row 93) ===
+death order rho 0.896; first SD real 20.4 s, rewired 17.0 s; t50 real 27.3, rewired 17.9; healthy rate real 10.70 Hz
+P1 order similar but not identical (0.85 <= rho <= 0.98; female 0.941): YES
+P2 real more protected by >= 2 s (female +6.1 / +7.2 s): first SD +3.4 s, t50 +9.4 s -> YES
+
+stage_male finished 2026-10-04 16:25 (93 min)

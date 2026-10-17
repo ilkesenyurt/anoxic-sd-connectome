@@ -1,0 +1,6 @@
+female {1: {'all': 26370, 'brain': 26161, 'nonbrain': 206, 'far': 3}, 100: {'all': 21839, 'brain': 21772, 'nonbrain': 67, 'far': 0}}
+male {1: {'all': 35268, 'brain': 32762, 'nonbrain': 2493, 'far': 13}, 100: {'all': 26698, 'brain': 26294, 'nonbrain': 404, 'far': 0}}
+>= 1 synapse(s), all: male/female = 1.337 -> linear scale 1.102
+>= 1 synapse(s), brain: male/female = 1.252 -> linear scale 1.078
+>= 100 synapse(s), all: male/female = 1.222 -> linear scale 1.069
+>= 100 synapse(s), brain: male/female = 1.208 -> linear scale 1.065

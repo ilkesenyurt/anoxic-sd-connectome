@@ -1,0 +1,54 @@
+{
+ "female": {
+  "H6": {
+   "Wsign_t50": [
+    18.84,
+    18.76,
+    18.72,
+    18.76,
+    18.77
+   ],
+   "real_t50_stage16": [
+    20.56,
+    20.49,
+    20.48
+   ],
+   "gap_s": 1.74,
+   "fraction_of_stage16_gap": 0.26,
+   "PASS": false
+  },
+  "H7": {
+   "real_t50": 18.78,
+   "rewired_t50": 12.43,
+   "gap_s": 6.35,
+   "fraction_of_stage16_gap": 0.94,
+   "PASS": true
+  }
+ },
+ "male": {
+  "H6": {
+   "Wsign_t50": [
+    19.14,
+    19.14,
+    19.09,
+    19.02,
+    19.16
+   ],
+   "real_t50_stage16": [
+    22.74,
+    22.68,
+    22.7
+   ],
+   "gap_s": 3.6,
+   "fraction_of_stage16_gap": 0.41,
+   "PASS": true
+  },
+  "H7": {
+   "real_t50": 20.75,
+   "rewired_t50": 12.48,
+   "gap_s": 8.27,
+   "fraction_of_stage16_gap": 0.95,
+   "PASS": true
+  }
+ }
+}
